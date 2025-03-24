@@ -1,0 +1,1189 @@
+﻿Ano;Data;Territorio INTCF;CCAA;Provincia;Organismo;Zona;Rol no sinistro;Tipo vehículo;Rango de idade;Sexo;Resultado toxicolóxico;Etanol;Drogas;Cocaína;Cánnabis;Opiáceos;Anfetamina e relacionados;Cetamina;Psicofármacos;Benzodiacepinas;Antipsicóticos;Antidepresivos;Antiepilépticos;Opioides;Vítimas mortais;Vítimas toxic. positivo;Resultado toxic. positivo
+2023;28/09/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/10/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;02/10/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/10/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/09/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;30/09/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Motocicleta;45-54;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;23/10/2023;INTCF-Madrid;Castilla y León;Segovia;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/09/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/09/2023;INTCF-Madrid;País Vasco;Araba/Álava;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/09/2023;INTCF-Madrid;Castilla-La Mancha;Guadalajara;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;+;+;-;-;-;-;+;-;-;+;-;-;1;1;2
+2023;22/09/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;22/09/2023;INTCF-Madrid;Castilla-La Mancha;Cuenca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;+;-;-;-;-;+;-;-;-;-;-;-;1;1;2
+2023;23/09/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/10/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;19/09/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías urbanas;Conductor;Bicicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/09/2023;INTCF-Madrid;Castilla y León;Palencia;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;13/10/2023;INTCF-Madrid;Castilla y León;Segovia;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/10/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Otro vehículo;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/10/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/10/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/10/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;+;1;1;3
+2023;12/10/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/10/2023;INTCF-Madrid;Galicia;A Coruña;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/10/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/10/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;45-54;Hombre;Positivo;-;+;+;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;05/10/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/09/2023;INTCF-Madrid;Galicia;A Coruña;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;03/10/2023;INTCF-Madrid;Castilla y León;Zamora;INTCF-Madrid;Vías interurbanas;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/09/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/10/2023;INTCF-Madrid;Castilla y León;Ávila;INTCF-Madrid;Vías interurbanas;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/10/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/10/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/10/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;07/10/2023;INTCF-Madrid;Castilla y León;Ávila;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/08/2023;INTCF-Madrid;País Vasco;Bizkaia;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;+;+;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;19/08/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;25/08/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;24/08/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;24/08/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/08/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;-;+;-;+;-;-;-;+;-;-;-;-;+;1;1;2
+2023;17/08/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;26/08/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;28/08/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;22/08/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/08/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/08/2023;INTCF-Madrid;Castilla y León;Soria;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/08/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;20/10/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/08/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;+;+;+;-;-;-;+;+;-;-;-;-;1;1;4
+2023;23/08/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/08/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;22/08/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Ciclomotor;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;18/08/2023;INTCF-Madrid;Castilla y León;Ávila;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/09/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/09/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;31/08/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;+;-;+;-;-;-;+;+;-;-;-;-;1;1;2
+2023;02/09/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;09/09/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/09/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/08/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;<18;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/09/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/09/2023;INTCF-Madrid;Castilla y León;Valladolid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;+;-;-;-;+;-;-;-;-;-;-;-;1;1;2
+2023;13/09/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/09/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;+;+;1;1;2
+2023;01/09/2023;INTCF-Madrid;Castilla y León;Segovia;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;+;1;1;3
+2023;01/09/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;19/08/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;31/08/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/09/2023;INTCF-Madrid;Castilla y León;Valladolid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;+;-;1;1;1
+2023;30/08/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;04/08/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/08/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;+;-;+;-;+;-;-;-;-;-;-;-;1;1;2
+2023;12/11/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;+;+;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;12/12/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/12/2023;INTCF-Madrid;Castilla-La Mancha;Cuenca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/12/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/12/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/12/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/12/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías urbanas;Acompañante;Turismo sin remolque;<18;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;2;2;2
+2023;15/12/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;12/12/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/12/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Acompañante;Furgoneta;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/11/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/12/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;22/11/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;25-34;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;24/11/2023;INTCF-Madrid;Galicia;A Coruña;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;04/12/2023;INTCF-Madrid;Castilla y León;Soria;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/12/2023;INTCF-Madrid;Castilla y León;Segovia;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/12/2023;INTCF-Madrid;Castilla y León;Soria;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/12/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;-;+;+;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;24/12/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/12/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/12/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/11/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/12/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;27/12/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;13/11/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;+;-;-;-;+;-;-;-;-;-;-;-;1;1;1
+2023;24/12/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;18/08/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;-;+;-;+;-;-;-;+;+;-;-;-;-;1;1;2
+2023;28/11/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/12/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;+;+;1;1;3
+2023;18/12/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;12/12/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/11/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;-;+;+;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;22/12/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/12/2023;INTCF-Madrid;Castilla y León;Valladolid;INTCF-Madrid;Vías urbanas;Conductor;Otro vehículo;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/11/2023;INTCF-Madrid;País Vasco;Bizkaia;INTCF-Madrid;No consta;Conductor;Furgoneta;55-64;Hombre;Positivo;-;+;-;-;-;-;+;-;-;-;-;-;-;1;1;1
+2023;21/12/2023;INTCF-Madrid;Galicia;A Coruña;INTCF-Madrid;Vías interurbanas;Conductor;Bicicleta;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;+;-;1;1;1
+2023;24/12/2023;INTCF-Madrid;Galicia;A Coruña;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/11/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;+;+;+;-;-;1;1;3
+2023;01/11/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/11/2023;INTCF-Madrid;Castilla y León;Soria;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/10/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Motocicleta;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/11/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;08/11/2023;INTCF-Madrid;Castilla-La Mancha;Guadalajara;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/10/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/11/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;05/11/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/10/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/10/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Positivo;+;+;-;+;-;+;-;-;-;-;-;-;-;1;1;3
+2023;26/10/2023;INTCF-Madrid;Castilla y León;Zamora;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/09/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Motocicleta;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;25/10/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Conductor;Camión <=3.500 kg sin remolque;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;27/10/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/10/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;13/10/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/10/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/10/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/11/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/11/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/11/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías urbanas;Peatón;Peatón;<18;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;18/11/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/11/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/11/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;18/11/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;25/11/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;25/11/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/11/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;+;-;-;+;+;-;1;1;3
+2023;18/11/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/11/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/11/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/11/2023;INTCF-Madrid;Castilla y León;Valladolid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;-;+;-;+;-;-;-;-;-;-;-;1;1;2
+2023;18/11/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Ciclomotor;18-24;Hombre;Positivo;-;+;-;-;-;+;-;-;-;-;-;-;-;1;1;1
+2023;18/11/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Acompañante;Motocicleta;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/11/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;17/11/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;16/11/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;20/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/05/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/05/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;20/05/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;25/05/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/05/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Camión >3.500 kg sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/05/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;27/05/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/05/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;21/05/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Conductor;Bicicleta;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/05/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/05/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/05/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/05/2023;INTCF-Madrid;Castilla y León;Ávila;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/05/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;25/05/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/05/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/05/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;+;+;+;-;-;-;+;+;-;+;-;-;1;1;5
+2023;06/06/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;<18;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;<18;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;2;2;2
+2023;11/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/06/2023;INTCF-Madrid;Castilla y León;Soria;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;12/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Motocicleta;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;+;+;-;+;-;-;1;1;3
+2023;09/05/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;-;1;1;2
+2023;02/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/06/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/06/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;01/06/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/06/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;+;-;1;1;2
+2023;01/06/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;35-44;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;-;1;1;2
+2023;06/06/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Ciclomotor;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/05/2023;INTCF-Madrid;País Vasco;Araba/Álava;INTCF-Madrid;No consta;Conductor;Camión <=3.500 kg sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/04/2023;INTCF-Madrid;País Vasco;Araba/Álava;INTCF-Madrid;No consta;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/04/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;+;+;+;-;-;1;1;3
+2023;22/04/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Acompañante;Motocicleta;35-44;Mujer;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;31/03/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/04/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;18/04/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/04/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/04/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías urbanas;Peatón;Peatón;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/04/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;+;+;-;-;1;1;2
+2023;16/04/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;30/12/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Mujer;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/04/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/04/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;45-54;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;16/04/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/04/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;+;-;-;-;-;+;-;-;-;-;-;-;1;1;1
+2023;22/04/2023;INTCF-Madrid;Castilla y León;Ávila;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/04/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Otro vehículo;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;16/04/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;+;-;-;-;+;-;-;-;-;-;-;-;1;1;2
+2023;19/04/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/05/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/05/2023;INTCF-Madrid;Castilla y León;Soria;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/05/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;+;-;1;1;1
+2023;06/05/2023;INTCF-Madrid;Castilla-La Mancha;Guadalajara;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/05/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/05/2023;INTCF-Madrid;Castilla y León;Valladolid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/05/2023;INTCF-Madrid;Castilla y León;Ávila;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/05/2023;INTCF-Madrid;Castilla-La Mancha;Cuenca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;+;-;-;-;-;+;+;-;-;+;+;-;1;1;3
+2023;02/05/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;-;-;-;-;+;-;-;-;-;-;-;1;1;1
+2023;10/04/2023;INTCF-Madrid;País Vasco;Bizkaia;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;+;+;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;08/06/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/04/2023;INTCF-Madrid;Galicia;A Coruña;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/04/2023;INTCF-Madrid;Castilla y León;Valladolid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/04/2023;INTCF-Madrid;País Vasco;Araba/Álava;INTCF-Madrid;No consta;Conductor;Camión <=3.500 kg sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/04/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Positivo;+;+;+;-;-;+;-;-;-;-;-;-;-;1;1;3
+2023;25/04/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;+;+;+;-;+;-;-;-;-;-;-;-;1;1;4
+2023;28/04/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/04/2023;INTCF-Madrid;Castilla-La Mancha;Cuenca;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/07/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/07/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;26/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;+;+;-;+;-;-;1;1;3
+2023;13/07/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/08/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;06/07/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;+;-;-;+;-;-;-;-;-;-;-;-;1;1;1
+2023;28/07/2023;INTCF-Madrid;Castilla y León;Ávila;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/07/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/07/2023;INTCF-Madrid;Castilla-La Mancha;Cuenca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/07/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;+;-;1;1;2
+2023;14/07/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/07/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/07/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;25/07/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;12/08/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/08/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/08/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;18-24;Hombre;Positivo;+;-;-;-;-;-;-;+;-;-;+;-;-;1;1;2
+2023;10/08/2023;INTCF-Madrid;Castilla y León;Zamora;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/08/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/08/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/08/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Otro vehículo;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/08/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;13/08/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Mujer;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;16/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;55-64;Hombre;Positivo;-;+;-;-;-;-;+;+;+;-;-;-;-;1;1;2
+2023;29/07/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/07/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/08/2023;INTCF-Madrid;Castilla-La Mancha;Cuenca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/08/2023;INTCF-Madrid;Castilla-La Mancha;Cuenca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;+;+;-;-;-;-;+;-;-;+;-;-;1;1;3
+2023;02/08/2023;INTCF-Madrid;Castilla-La Mancha;Guadalajara;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/08/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;05/08/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/08/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/08/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Otro vehículo;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;27/06/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/06/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;22/06/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/06/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías urbanas;Peatón;Peatón;35-44;Mujer;Positivo;-;+;-;-;+;-;-;-;-;-;-;-;-;1;1;1
+2023;16/06/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/06/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Ciclomotor;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;24/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/06/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/06/2023;INTCF-Madrid;Castilla-La Mancha;Cuenca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/06/2023;INTCF-Madrid;Castilla y León;Valladolid;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;13/06/2023;INTCF-Madrid;Castilla y León;Valladolid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/05/2023;INTCF-Madrid;País Vasco;Bizkaia;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/06/2023;INTCF-Madrid;Castilla y León;Segovia;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;-;1;1;2
+2023;27/05/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Motocicleta;65 o más;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/06/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/06/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/06/2023;INTCF-Madrid;Castilla-La Mancha;Guadalajara;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;13/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;25-34;Hombre;Positivo;-;+;+;-;+;-;-;-;-;-;-;-;-;1;1;2
+2023;04/07/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;25-34;Hombre;Positivo;-;+;+;-;-;-;-;+;+;-;-;-;+;1;1;3
+2023;13/07/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;08/07/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;12/07/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/07/2023;INTCF-Madrid;Castilla y León;Segovia;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/08/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/07/2023;INTCF-Madrid;Castilla y León;Ávila;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/07/2023;INTCF-Madrid;Castilla y León;Ávila;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;+;+;-;-;-;-;+;+;+;+;-;-;1;1;5
+2023;05/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/07/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;+;1;1;2
+2023;07/07/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías urbanas;Peatón;Peatón;35-44;Hombre;Positivo;+;+;-;+;-;-;-;+;+;+;-;+;-;1;1;5
+2023;16/06/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/07/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/07/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/05/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;25/09/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/09/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;24/09/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/10/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;-;+;-;-;-;+;+;-;-;-;-;1;1;3
+2023;03/10/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/09/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;35-44;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/10/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;2;0;0
+2023;25/09/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;24/09/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/09/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/09/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;No consta;Conductor;Cuadriciclo;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/09/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/09/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/09/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/10/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;30/09/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Bicicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;29/09/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;18/10/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/10/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;-;1;1;2
+2023;07/10/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/10/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Positivo;-;+;+;-;-;-;-;+;-;-;-;-;+;1;1;2
+2023;08/10/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/11/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;20/10/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;23/10/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/10/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;18/09/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/10/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/10/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Acompañante;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;09/10/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/10/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;55-64;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;23/09/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;<18;Hombre;Positivo;-;+;-;+;+;-;-;-;-;-;-;-;-;1;1;2
+2023;21/10/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;No consta;Peatón;Peatón;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/10/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;15/10/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;04/09/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;01/09/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/08/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/07/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Conductor;Bicicleta;45-54;Hombre;Positivo;-;+;+;-;-;-;-;+;-;-;-;-;+;1;1;2
+2023;24/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/08/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/09/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/08/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/08/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/08/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;20/08/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Ciclomotor;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/08/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;15/08/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;24/08/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Otro vehículo;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/08/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;24/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/09/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/09/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/07/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/09/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/09/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;09/10/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/09/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;25-34;Mujer;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;31/08/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/09/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;35-44;Mujer;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;19/09/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/09/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;28/10/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/06/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/09/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;01/09/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/09/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/08/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías urbanas;Conductor;Vehículo de movilidad personal (VMP);45-54;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/09/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/08/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Camión <=3.500 kg sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/12/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/12/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/12/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/12/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/12/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/12/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;24/12/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/12/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Otro vehículo;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/12/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/12/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/12/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Furgoneta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/12/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/12/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/12/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/12/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;28/12/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/12/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;-;1;1;2
+2023;19/12/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;+;1;1;3
+2023;31/07/2023;INTCF-Madrid;País Vasco;Gipuzkoa;IVML;No consta;Peatón;Peatón;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/11/2023;INTCF-Madrid;País Vasco;Bizkaia;IVML;No consta;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/08/2023;INTCF-Madrid;País Vasco;Bizkaia;IVML;No consta;Conductor;Bicicleta;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;18/08/2023;INTCF-Madrid;País Vasco;Gipuzkoa;IVML;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;21/11/2023;INTCF-Madrid;País Vasco;Bizkaia;IVML;No consta;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;+;1;1;2
+2023;14/04/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/07/2023;INTCF-Madrid;País Vasco;Gipuzkoa;IVML;No consta;Peatón;Peatón;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;23/08/2023;INTCF-Madrid;País Vasco;Gipuzkoa;IVML;No consta;Conductor;Furgoneta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/07/2023;INTCF-Madrid;País Vasco;Gipuzkoa;IVML;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/12/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Furgoneta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/10/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/01/2023;INTCF-Madrid;País Vasco;Araba/Álava;IVML;No consta;Peatón;Peatón;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/12/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/12/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Bicicleta;45-54;Hombre;Positivo;-;+;+;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;19/09/2023;INTCF-Madrid;País Vasco;Araba/Álava;IVML;No consta;Conductor;Se desconoce;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/01/2023;INTCF-Madrid;País Vasco;Bizkaia;IVML;No consta;Peatón;Peatón;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;21/08/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/04/2023;INTCF-Madrid;País Vasco;Araba/Álava;IVML;No consta;Conductor;Se desconoce;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/03/2023;INTCF-Madrid;País Vasco;Araba/Álava;IVML;No consta;Conductor;Se desconoce;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/11/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Positivo;-;+;+;-;-;-;-;+;+;-;+;+;-;1;1;4
+2023;02/11/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Bicicleta;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;+;+;1;1;2
+2023;10/11/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;09/11/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;11/11/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/11/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/11/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/09/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Acompañante;Motocicleta;<18;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/09/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;24/09/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/10/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/10/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/10/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/11/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/11/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Acompañante;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/11/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;05/11/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;05/11/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/11/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Furgoneta;55-64;Mujer;Positivo;+;-;-;-;-;-;-;+;-;-;+;-;-;1;1;2
+2023;02/11/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;02/11/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/11/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/12/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;06/12/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;17/08/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Furgoneta;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;06/12/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/12/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/12/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;25/11/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;29/10/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;22/11/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;+;-;-;-;-;+;+;-;-;+;-;-;1;1;2
+2023;06/11/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Furgoneta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/11/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/11/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Bicicleta;45-54;Hombre;Positivo;+;+;+;-;-;-;-;+;+;-;-;-;-;1;1;3
+2023;01/10/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/08/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/11/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/05/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/04/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;25/03/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/02/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Acompañante;Turismo sin remolque;18-24;Mujer;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;26/03/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;30/03/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/03/2023;INTCF-Sevilla;Ciudad Autónoma de Ceuta;Ceuta;INTCF-Sevilla;Vías urbanas;Acompañante;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/03/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Furgoneta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/03/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Camión >3.500 kg sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/02/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/03/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/03/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;02/03/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías urbanas;Acompañante;Motocicleta;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/02/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/03/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/04/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;09/03/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Furgoneta;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/03/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;19/02/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Bicicleta;55-64;Hombre;Positivo;-;+;+;-;-;-;-;+;-;-;-;-;+;1;1;2
+2023;24/04/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías urbanas;Conductor;Camión <=3.500 kg sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;23/04/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Camión <=3.500 kg sin remolque;45-54;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;27/05/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;25-34;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;22/04/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/04/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;+;+;-;-;-;-;+;-;-;+;-;-;1;1;3
+2023;25/02/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/04/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/04/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;25/02/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/04/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Furgoneta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;05/01/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/04/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/03/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;17/04/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;+;+;+;+;-;-;-;-;-;-;-;-;1;1;3
+2023;13/04/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/03/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/04/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/03/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/01/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/02/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/01/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;+;-;-;+;-;-;-;-;-;-;-;-;1;1;1
+2023;14/01/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;20/01/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Ciclomotor;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;05/02/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;+;+;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;11/01/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/01/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;+;+;+;-;-;-;+;+;-;-;-;-;1;1;4
+2023;19/01/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/01/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;31/12/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/12/2023;INTCF-Madrid;Galicia;A Coruña;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/12/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/12/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Peatón;Peatón;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;+;-;1;1;1
+2023;13/01/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;+;+;-;-;-;-;+;-;-;-;-;+;1;1;2
+2023;04/02/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/11/2023;INTCF-Madrid;País Vasco;Araba/Álava;INTCF-Madrid;No consta;Peatón;Peatón;25-34;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;-;1;1;2
+2023;03/12/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/02/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/02/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;21/02/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/02/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/03/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;18/02/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Conductor;Ciclomotor;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;18/02/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/03/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;55-64;Hombre;Positivo;+;-;-;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;24/02/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;08/02/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Acompañante;Furgoneta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/01/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;24/04/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;+;-;+;-;-;-;+;-;-;-;-;+;1;1;2
+2023;04/02/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/02/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;55-64;Hombre;Positivo;+;+;+;-;-;-;-;+;+;-;-;-;-;1;1;3
+2023;04/02/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/01/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/02/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/01/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;23/01/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/07/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/07/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;12/07/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/07/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/07/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;55-64;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;02/06/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;14/07/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;2;0;0
+2023;17/07/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;09/05/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/06/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;<18;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/07/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/06/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/07/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/03/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/07/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/03/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/07/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/08/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;+;+;-;-;+;-;-;-;-;-;-;-;1;1;3
+2023;15/08/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Bicicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;+;-;-;+;-;-;-;-;-;-;-;-;1;1;1
+2023;05/08/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Furgoneta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;25/07/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Bicicleta;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/08/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/07/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;29/07/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/07/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/07/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Camión <=3.500 kg sin remolque;35-44;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;23/07/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/08/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/07/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/07/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;02/08/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;31/07/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías urbanas;Conductor;Otro vehículo;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/06/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Conductor;Otro vehículo;35-44;Mujer;Positivo;-;+;-;+;-;-;-;+;-;-;+;-;-;1;1;2
+2023;14/01/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Se desconoce;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/03/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;-;+;+;+;-;-;-;+;+;-;-;-;-;1;1;3
+2023;23/05/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;29/05/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/06/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/06/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;+;+;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;30/12/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/05/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;+;-;-;-;-;+;-;-;-;-;-;-;1;1;1
+2023;28/04/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/05/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;09/04/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;06/05/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/05/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/04/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Otro vehículo;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/05/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Acompañante;Autobus (no escolar);35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/05/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/05/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;+;-;-;+;-;-;1;1;2
+2023;12/05/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías urbanas;Conductor;Furgoneta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/06/2023;INTCF-Sevilla;Extremadura;Cáceres;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/04/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/06/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;No consta;Conductor;Cuadriciclo;25-34;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;21/06/2023;INTCF-Sevilla;Andalucía;Cádiz;INTCF-Sevilla;Vías urbanas;Conductor;Bicicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/06/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/07/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;21/06/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/06/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías interurbanas;Acompañante;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/06/2023;INTCF-Sevilla;Andalucía;Córdoba;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;09/08/2023;INTCF-Sevilla;Andalucía;Granada;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/05/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías urbanas;Peatón;Peatón;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/06/2023;INTCF-Sevilla;Andalucía;Málaga;INTCF-Sevilla;Vías urbanas;Conductor;Ciclomotor;<18;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/04/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/03/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/06/2023;INTCF-Sevilla;Andalucía;Huelva;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/06/2023;INTCF-Sevilla;Andalucía;Almería;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/06/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;+;+;-;-;-;-;+;+;-;+;-;-;1;1;4
+2023;13/04/2023;INTCF-Sevilla;Andalucía;Sevilla;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/06/2023;INTCF-Sevilla;Andalucía;Jaen;INTCF-Sevilla;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/02/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;16/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;13/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;45-54;Hombre;Positivo;-;+;+;-;+;-;-;-;-;-;-;-;-;1;1;2
+2023;10/10/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/10/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Bicicleta;No consta;No consta;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;15/10/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/10/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/09/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;05/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;35-44;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;21/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/09/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;No consta;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/09/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/11/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;13/11/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Acompañante;Motocicleta;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/11/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/11/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;-;+;-;-;-;+;-;-;+;-;-;1;1;3
+2023;19/11/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;24/11/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Bicicleta;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;09/11/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/11/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/11/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;No consta;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;-;+;-;1;1;1
+2023;02/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;+;+;-;-;-;+;1;1;3
+2023;26/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;25/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/10/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;31/10/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/10/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/11/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/11/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;18-24;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/09/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/08/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/08/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Positivo;+;+;+;-;-;-;-;+;-;-;+;-;-;1;1;3
+2023;04/08/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/08/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Vehículo de movilidad personal (VMP);25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/08/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Acompañante;Camión >3.500 kg sin remolque;No consta;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/08/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/08/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/08/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Acompañante;Motocicleta;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;27/07/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Motocicleta;18-24;Hombre;Positivo;-;+;-;-;-;+;-;-;-;-;-;-;-;1;1;1
+2023;22/07/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;45-54;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;23/07/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/07/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;25-34;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;31/07/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/08/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Bicicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/07/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/09/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/09/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Maquinaria obras y agrícola y tractores agrícolas;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/09/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/09/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;09/09/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Bicicleta;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/09/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/09/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;21/09/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;18/09/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/09/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/09/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;24/11/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/08/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;22/08/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Acompañante;Camión >3.500 kg sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/09/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/09/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;35-44;Mujer;Positivo;-;+;-;+;+;-;-;+;+;-;-;-;-;1;1;3
+2023;22/08/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Camión >3.500 kg sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/09/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;31/08/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Bicicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/05/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/07/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;17/08/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Otro vehículo;35-44;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;18/07/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/11/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/12/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías urbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;29/05/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/11/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;22/11/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/05/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/09/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/10/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/08/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/10/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/03/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/01/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/03/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Furgoneta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/03/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Acompañante;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/04/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/05/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/05/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;04/05/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;10/06/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Camión >3.500 kg sin remolque;45-54;Hombre;Positivo;-;+;+;+;+;-;-;+;+;-;-;-;-;1;1;4
+2023;10/07/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/04/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/06/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías urbanas;Peatón;Peatón;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/06/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;21/08/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;No consta;Conductor;Motocicleta;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/03/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías urbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;13/03/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías urbanas;Conductor;Motocicleta;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/03/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/02/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Acompañante;Camión >3.500 kg sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/04/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/04/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Peatón;Peatón;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/02/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Acompañante;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/04/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/04/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;24/09/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías urbanas;Peatón;Peatón;25-34;Mujer;Positivo;-;+;+;-;-;-;+;-;-;-;-;-;-;1;1;2
+2023;16/12/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/12/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/12/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;23/12/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/12/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Camión >3.500 kg sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/12/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/12/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/12/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;10/12/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Peatón;Peatón;55-64;Mujer;Positivo;+;-;-;-;-;-;-;+;-;-;+;-;-;1;1;2
+2023;24/11/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Positivo;+;+;+;-;-;-;-;+;-;-;+;-;-;1;1;3
+2023;28/11/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Maquinaria obras y agrícola y tractores agrícolas;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/11/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Peatón;Peatón;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;02/12/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/12/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/08/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Peatón;Peatón;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/12/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/12/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/05/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías urbanas;Conductor;Bicicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/06/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/07/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Peatón;Peatón;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/06/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;No consta;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/07/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;No consta;Conductor;Turismo sin remolque;No consta;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;18/07/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;22/03/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/07/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;No consta;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/07/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías urbanas;Peatón;Peatón;35-44;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/07/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;No consta;Conductor;Bicicleta;No consta;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;02/12/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Acompañante;Turismo sin remolque;25-34;Hombre;Positivo;+;+;+;-;-;-;+;-;-;-;-;-;-;1;1;3
+2023;26/11/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;02/12/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;+;-;-;-;+;+;-;-;-;-;-;-;1;1;3
+2023;19/08/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;20/05/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/04/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías urbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;02/09/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/02/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/06/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;IMLCF-Illes Balears;Vías urbanas;Conductor;Ciclomotor;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;24/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;55-64;Mujer;Positivo;+;-;-;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;29/01/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/01/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/02/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/01/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;03/02/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/01/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Peatón;Peatón;45-54;Hombre;Positivo;-;+;-;-;+;-;-;-;-;-;-;-;-;1;1;1
+2023;11/01/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;16/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;17/01/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/01/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/01/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;45-54;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;07/03/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/04/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/04/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/04/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;25-34;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;12/03/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/03/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/03/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;+;-;-;+;-;-;1;1;3
+2023;17/03/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/03/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;13/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/03/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;30/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/02/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;05/03/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;2;0;0
+2023;25/02/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/02/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Acompañante;Motocicleta;<18;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/03/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;55-64;Hombre;Positivo;+;+;+;-;-;-;-;+;+;-;-;-;-;1;1;3
+2023;05/03/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;<18;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/02/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;06/05/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/10/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías interurbanas;Conductor;Camión <=3.500 kg sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;17/07/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Mujer;Positivo;-;+;-;-;-;+;-;-;-;-;-;-;-;1;1;1
+2023;27/01/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/06/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/04/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/06/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/05/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías interurbanas;Acompañante;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/04/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías interurbanas;Conductor;Furgoneta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/11/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías interurbanas;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/03/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;+;-;+;-;-;-;+;-;-;-;-;+;1;1;3
+2023;25/02/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías urbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;17/04/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías interurbanas;Conductor;Otro vehículo;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;24/05/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;20/06/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías interurbanas;Conductor;Otro vehículo;35-44;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;18/05/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/05/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;22/08/2023;INTCF-Barcelona;Aragón;Teruel;IMLCF-Aragón;Vías interurbanas;Conductor;Otro vehículo;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;25-34;Hombre;Positivo;-;+;-;-;+;-;-;-;-;-;-;-;-;1;1;1
+2023;02/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;No consta;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;+;+;-;-;-;-;+;-;-;-;+;-;1;1;2
+2023;11/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Vehículo de movilidad personal (VMP);55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;23/08/2023;INTCF-Barcelona;Aragón;Teruel;IMLCF-Aragón;Vías interurbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;03/01/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/01/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Bicicleta;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/07/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;23/03/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/07/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías interurbanas;Conductor;Otro vehículo;25-34;Hombre;Positivo;-;+;-;-;-;+;-;-;-;-;-;-;-;1;1;1
+2023;04/02/2023;INTCF-Barcelona;Aragón;Zaragoza;IMLCF-Aragón;Vías urbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/05/2023;INTCF-Barcelona;Aragón;Teruel;IMLCF-Aragón;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/08/2023;INTCF-Barcelona;Aragón;Teruel;IMLCF-Aragón;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;01/07/2023;INTCF-Barcelona;Aragón;Huesca;IMLCF-Aragón;Vías interurbanas;Conductor;Bicicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/07/2023;INTCF-Barcelona;Aragón;Teruel;IMLCF-Aragón;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/04/2023;INTCF-Barcelona;Aragón;Teruel;IMLCF-Aragón;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/05/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/06/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/06/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;25-34;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;11/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;17/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;03/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;26/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;16/05/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Peatón;Peatón;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;24/05/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/06/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/07/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/07/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/07/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;<18;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;17/07/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;10/07/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Otro vehículo;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Acompañante;Motocicleta;25-34;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;22/05/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/06/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/06/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/06/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/07/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;02/07/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/06/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Bicicleta;55-64;Hombre;Positivo;+;+;+;-;+;-;-;-;-;-;-;-;-;1;1;3
+2023;28/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;-;-;-;+;-;-;-;-;-;-;-;1;1;2
+2023;18/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;22/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;17/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/04/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;65 o más;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/07/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;25/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;09/04/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/03/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Bicicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/03/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/03/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;25-34;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;No consta;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/04/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/03/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/04/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/04/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;-;+;+;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;02/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;45-54;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;05/05/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/05/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;22/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;20/04/2023;INTCF-Barcelona;Cataluña;Girona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Motocicleta;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;23/07/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;+;+;-;-;-;-;+;-;-;+;-;-;1;1;3
+2023;29/04/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Bicicleta;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;01/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;+;+;+;-;-;-;-;-;-;-;-;-;1;1;3
+2023;25/04/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Peatón;Peatón;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/04/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Peatón;Peatón;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/05/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/04/2023;INTCF-Barcelona;Cataluña;Barcelona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;<18;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/04/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/04/2023;INTCF-Barcelona;Cataluña;Lleida;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;20/07/2023;INTCF-Barcelona;Cataluña;Tarragona;IMLCF-Cataluña;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/01/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/01/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;02/01/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;18-24;Hombre;Positivo;-;+;-;+;-;+;-;-;-;-;-;-;-;1;1;2
+2023;07/01/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/01/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;25-34;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;02/01/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;09/01/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;09/01/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Ciclomotor;45-54;Hombre;Positivo;-;+;+;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;26/11/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;30/09/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Peatón;Peatón;18-24;Hombre;Positivo;-;+;+;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;14/10/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías urbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;23/09/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;-;+;-;-;+;-;-;+;+;-;-;-;-;1;1;2
+2023;16/10/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/11/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Peatón;Peatón;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/01/2023;INTCF-Madrid;Castilla y León;Soria;INTCF-Madrid;Vías interurbanas;Conductor;Camión >3.500 kg sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;2;0;0
+2023;18/11/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/10/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías interurbanas;Acompañante;Turismo sin remolque;35-44;Hombre;Positivo;+;+;+;-;-;-;-;+;-;-;-;-;+;1;1;3
+2023;21/01/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;29/01/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;28/01/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;21/01/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;25-34;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;23/01/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;04/02/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/01/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/01/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;55-64;Hombre;Positivo;+;+;-;+;+;-;-;+;+;-;+;+;+;1;1;7
+2023;29/01/2023;INTCF-Madrid;Castilla-La Mancha;Guadalajara;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;-;1;1;2
+2023;16/09/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/01/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/01/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/01/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/01/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;14/01/2023;INTCF-Madrid;Castilla y León;Valladolid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/01/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/01/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/01/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;18/01/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/03/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;01/01/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías urbanas;Peatón;Peatón;55-64;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;09/01/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;-;+;-;+;+;-;-;-;-;-;-;-;-;1;1;2
+2023;09/10/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;+;+;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;10/01/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías urbanas;Peatón;Peatón;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/02/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;No consta;Conductor;Turismo sin remolque;55-64;Mujer;Positivo;+;-;-;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;24/12/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías urbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;19/01/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/01/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;30/12/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;+;+;-;-;-;-;+;+;-;-;-;-;1;1;3
+2023;15/11/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;18/11/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;18/11/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/12/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/12/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Acompañante;Turismo sin remolque;25-34;Hombre;Positivo;+;+;+;-;-;-;+;-;-;-;-;-;-;1;1;3
+2023;25/02/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías urbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;02/12/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;+;-;-;-;+;+;-;-;-;-;-;-;1;1;3
+2023;15/12/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/07/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Positivo;+;+;+;-;-;-;-;+;+;-;-;-;-;1;1;3
+2023;05/08/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/08/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;-;+;-;+;-;-;-;+;+;-;-;-;-;1;1;2
+2023;28/07/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Peatón;Peatón;18-24;Hombre;Positivo;+;+;-;-;-;+;-;-;-;-;-;-;-;1;1;2
+2023;29/08/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/09/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;-;1;1;2
+2023;28/06/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías urbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/09/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;22/08/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;+;-;-;+;-;-;+;+;-;-;-;-;1;1;3
+2023;13/09/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/03/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Furgoneta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/02/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/02/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías interurbanas;Conductor;Bicicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/02/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías interurbanas;Peatón;Peatón;25-34;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/03/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías urbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;29/06/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías urbanas;Conductor;Turismo sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/02/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/06/2023;INTCF-La Laguna;Canarias;Santa Cruz de Tenerife;INTCF-La Laguna;Vías interurbanas;Conductor;Bicicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/03/2023;INTCF-La Laguna;Canarias;Las Palmas;INTCF-La Laguna;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/03/2023;INTCF-Madrid;Castilla y León;Burgos;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/03/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;28/03/2023;INTCF-Madrid;Castilla y León;Segovia;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;22/03/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Otro vehículo;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/03/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Camión >3.500 kg sin remolque;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;29/03/2023;INTCF-Madrid;Castilla y León;Valladolid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;22/03/2023;INTCF-Madrid;Castilla-La Mancha;Guadalajara;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/02/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Acompañante;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/03/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/03/2023;INTCF-Madrid;Castilla-La Mancha;Cuenca;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;17/03/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/03/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Mujer;Positivo;-;+;-;-;+;+;-;-;-;-;-;-;-;1;1;2
+2023;17/03/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/03/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/02/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Acompañante;Turismo sin remolque;25-34;Mujer;Positivo;-;+;-;-;+;-;-;-;-;-;-;-;-;1;1;1
+2023;30/03/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías urbanas;Peatón;Peatón;55-64;Mujer;Positivo;-;+;-;-;-;-;+;-;-;-;-;-;-;1;1;1
+2023;27/02/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Acompañante;Turismo sin remolque;25-34;Hombre;Positivo;-;+;-;-;+;-;-;-;-;-;-;-;-;1;1;1
+2023;07/03/2023;INTCF-Madrid;País Vasco;Gipuzkoa;INTCF-Madrid;No consta;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;04/04/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/03/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías urbanas;Peatón;Peatón;55-64;Hombre;Positivo;+;+;-;+;-;-;-;+;-;-;-;-;+;1;1;3
+2023;07/04/2023;INTCF-Madrid;Castilla y León;Zamora;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/03/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;09/04/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;09/04/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;+;-;-;-;-;+;-;-;-;-;-;-;1;1;1
+2023;04/04/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;35-44;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;+;+;+;1;1;4
+2023;08/04/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/04/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/03/2023;INTCF-Madrid;Castilla y León;Soria;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;45-54;Hombre;Positivo;+;+;-;-;-;+;-;-;-;-;-;-;-;1;1;2
+2023;31/03/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/04/2023;INTCF-Madrid;Castilla y León;Ávila;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/03/2023;INTCF-Madrid;Galicia;A Coruña;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;55-64;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/03/2023;INTCF-Madrid;Castilla y León;Soria;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;02/04/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Peatón;Peatón;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/04/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/04/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/04/2023;INTCF-Madrid;Castilla-La Mancha;Cuenca;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/04/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/02/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;+;-;-;+;-;-;-;-;-;-;-;-;1;1;1
+2023;17/02/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/02/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;21/01/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;+;-;-;-;1;1;2
+2023;14/02/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/02/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;15/02/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;+;+;+;-;-;-;+;+;-;-;-;+;1;1;4
+2023;09/02/2023;INTCF-Madrid;Castilla y León;Salamanca;INTCF-Madrid;Vías interurbanas;Conductor;Bicicleta;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/02/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/02/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/02/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/02/2023;INTCF-Madrid;Castilla-La Mancha;Albacete;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/02/2023;INTCF-Sevilla;Extremadura;Badajoz;INTCF-Sevilla;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;03/02/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías urbanas;Conductor;Ciclomotor;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/02/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/02/2023;INTCF-Madrid;Castilla y León;Soria;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;-;+;-;-;-;+;-;-;-;-;-;-;-;1;1;1
+2023;03/02/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Otro vehículo;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;-;1;1;2
+2023;09/02/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;11/02/2023;INTCF-Madrid;Cantabria;Cantabria;INTCF-Madrid;Vías interurbanas;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/02/2023;INTCF-Madrid;Galicia;Pontevedra;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Positivo;+;+;-;+;-;-;-;-;-;-;-;-;-;1;1;2
+2023;05/03/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías interurbanas;Conductor;Camión <=3.500 kg sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/03/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/01/2023;INTCF-Madrid;Castilla y León;Zamora;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;11/03/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/03/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/02/2023;INTCF-Madrid;Principado de Asturias;Asturias;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Positivo;-;+;-;-;-;-;+;+;-;-;-;-;+;1;1;2
+2023;11/03/2023;INTCF-Madrid;Castilla-La Mancha;Toledo;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;05/03/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Turismo sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/11/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías interurbanas;Conductor;Furgoneta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/02/2023;INTCF-Madrid;Castilla-La Mancha;Ciudad Real;INTCF-Madrid;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;23/02/2023;INTCF-Madrid;La Rioja;La Rioja;INTCF-Madrid;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/02/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías interurbanas;Conductor;Furgoneta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;24/02/2023;INTCF-Madrid;Castilla y León;León;INTCF-Madrid;Vías urbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/02/2023;INTCF-Madrid;Galicia;Ourense;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;05/03/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/02/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;25-34;Hombre;Positivo;+;+;-;+;-;-;-;+;+;-;-;-;-;1;1;3
+2023;04/03/2023;INTCF-Madrid;Comunidad de Madrid;Madrid;INTCF-Madrid;Vías urbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;24/02/2023;INTCF-Madrid;Galicia;A Coruña;INTCF-Madrid;Vías interurbanas;Peatón;Peatón;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/03/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías urbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;07/09/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/10/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Peatón;Peatón;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;10/09/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;09/10/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Acompañante;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/11/2023;INTCF-Madrid;Galicia;Pontevedra;INCIFOR;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/09/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/11/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías urbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/10/2023;INTCF-Madrid;Galicia;Pontevedra;INCIFOR;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;+;+;1;1;2
+2023;25/08/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Conductor;Ciclomotor;45-54;Hombre;Positivo;-;+;+;+;+;-;-;-;-;-;-;-;-;1;1;3
+2023;04/07/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;12/07/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/06/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Conductor;Furgoneta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/07/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/08/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;2;0;0
+2023;06/11/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías urbanas;Acompañante;Turismo sin remolque;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;27/07/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías urbanas;Peatón;Peatón;45-54;Hombre;Positivo;+;-;-;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;19/07/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/01/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Acompañante;Motocicleta;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/02/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Acompañante;Motocicleta;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/02/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/02/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;20/02/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;<18;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/02/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;+;+;-;-;-;-;1;1;3
+2023;05/02/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Mujer;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;26/02/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Acompañante;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/02/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/06/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías urbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/01/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;14/01/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Bicicleta;<18;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;08/01/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Peatón;Peatón;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;06/01/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;+;-;-;+;-;-;+;+;-;-;-;-;1;1;3
+2023;15/01/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/01/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/12/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Peatón;Peatón;55-64;Hombre;Positivo;+;-;-;-;-;-;-;+;-;-;-;+;-;1;1;2
+2023;19/01/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/01/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías interurbanas;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/02/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/01/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;IMLCF-Valencia/València;Vías urbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;02/02/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;IMLCF-Valencia/València;Vías interurbanas;Peatón;Peatón;55-64;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;19/12/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Acompañante;Camión >3.500 kg sin remolque;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;22/02/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;IMLCF-Valencia/València;Vías urbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/04/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;IMLCF-Valencia/València;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/12/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;12/03/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;IMLCF-Valencia/València;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;12/03/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;IMLCF-Valencia/València;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/11/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/10/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/10/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/08/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías urbanas;Conductor;Motocicleta;<18;Hombre;Positivo;-;+;-;-;-;-;+;-;-;-;-;-;-;1;1;1
+2023;23/10/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías urbanas;Conductor;Motocicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/11/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Conductor;Motocicleta;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/04/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;IMLCF-Valencia/València;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;12/11/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías interurbanas;Peatón;Peatón;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/11/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías urbanas;Peatón;Peatón;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/04/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;2;2;2
+2023;16/05/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/05/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/05/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/01/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;09/06/2023;INTCF-Madrid;Galicia;Pontevedra;INCIFOR;Vías interurbanas;Acompañante;Turismo sin remolque;65 o más;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;09/01/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/06/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/07/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/06/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/12/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/03/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/11/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;IMLCF-Valencia/València;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;18/06/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;IMLCF-Valencia/València;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;16/02/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Conductor;Otro vehículo;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;01/04/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Acompañante;Turismo sin remolque;18-24;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;14/06/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;IMLCF-Valencia/València;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/04/2023;INTCF-Madrid;Galicia;Lugo;INCIFOR;Vías interurbanas;Acompañante;Turismo sin remolque;<18;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/03/2023;INTCF-Madrid;Galicia;A Coruña;INCIFOR;Vías interurbanas;Conductor;Furgoneta;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/07/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;22/08/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/06/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;27/08/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;07/07/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías urbanas;Conductor;Vehículo de movilidad personal (VMP);18-24;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;03/09/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;+;+;-;-;-;-;1;1;3
+2023;19/08/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;+;-;-;1;1;1
+2023;21/07/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/07/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;21/08/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Motocicleta;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/08/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Mujer;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;31/07/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/07/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/08/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Bicicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/08/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;02/09/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;18/08/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;02/08/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;26/09/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/10/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;29/10/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Bicicleta;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/07/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;31/10/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Peatón;Peatón;45-54;Hombre;Positivo;-;+;-;-;+;-;-;+;+;-;-;+;-;1;1;3
+2023;28/10/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;28/09/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;+;-;-;1;1;2
+2023;07/11/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;07/11/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Motocicleta;18-24;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;26/07/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/08/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;23/07/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Positivo;-;+;+;-;-;-;-;+;-;-;-;-;+;1;1;2
+2023;07/09/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías interurbanas;Acompañante;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;11/09/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;+;+;-;-;-;-;+;+;-;-;-;+;1;1;4
+2023;23/09/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;21/09/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;65 o más;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;04/09/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;-;-;-;-;-;-;-;+;-;-;-;+;-;1;1;1
+2023;30/09/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Peatón;Peatón;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/09/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Hombre;Positivo;+;-;-;-;-;-;-;+;+;-;-;-;-;1;1;2
+2023;21/06/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías urbanas;Peatón;Peatón;65 o más;Mujer;Positivo;-;+;-;-;+;-;-;+;+;-;-;-;-;1;1;2
+2023;03/05/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías urbanas;Conductor;Bicicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;03/05/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/05/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías interurbanas;Conductor;Camión >3.500 kg sin remolque;55-64;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;19/05/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Acompañante;Ciclomotor;18-24;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;16/04/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;-;1;1;1
+2023;22/04/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;25-34;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/05/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;18-24;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;21/05/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;25-34;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;10/03/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;INTCF-Barcelona;Vías interurbanas;Conductor;Ciclomotor;35-44;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;10/04/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;13/04/2023;INTCF-Barcelona;Comunidad Foral de Navarra;Navarra;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;06/04/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías interurbanas;Acompañante;Camión >3.500 kg sin remolque;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;05/04/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;-;+;-;+;-;-;-;-;-;-;-;-;-;1;1;1
+2023;24/04/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Acompañante;Motocicleta;55-64;Hombre;Positivo;-;+;+;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;21/04/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías interurbanas;Conductor;Bicicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;11/06/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;35-44;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;20/04/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías urbanas;Conductor;Ciclomotor;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;25/04/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Furgoneta;45-54;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;27/06/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Bicicleta;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;13/07/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Peatón;Peatón;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;15/07/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Motocicleta;45-54;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;08/11/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Peatón;Peatón;55-64;Hombre;Positivo;-;+;+;-;+;-;-;-;-;-;-;-;-;1;1;2
+2023;23/07/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;35-44;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;29/06/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Positivo;-;-;-;-;-;-;-;+;-;-;-;-;+;1;1;1
+2023;06/07/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías urbanas;Peatón;Peatón;45-54;Mujer;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;29/06/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;45-54;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;17/06/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías urbanas;Peatón;Peatón;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;12/06/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías urbanas;Conductor;Ciclomotor;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;27/06/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías interurbanas;Conductor;Otro vehículo;45-54;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;18/08/2023;INTCF-Madrid;Región de Murcia;Murcia;IMLCF-Murcia;Vías urbanas;Conductor;Motocicleta;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;31/05/2023;INTCF-Barcelona;Comunidad Valenciana;Valencia/València;INTCF-Barcelona;Vías interurbanas;Peatón;Peatón;55-64;Mujer;Positivo;-;-;-;-;-;-;-;+;+;-;-;-;+;1;1;2
+2023;11/06/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;30/06/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Otro vehículo;65 o más;Hombre;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;04/07/2023;INTCF-Barcelona;Cataluña;Tarragona;INTCF-Barcelona;No consta;Conductor;Turismo sin remolque;65 o más;Mujer;Negativo;-;-;-;-;-;-;-;-;-;-;-;-;-;1;0;0
+2023;21/07/2023;INTCF-Barcelona;Comunidad Valenciana;Castellón/Castelló;INTCF-Barcelona;Vías urbanas;Conductor;Motocicleta;35-44;Hombre;Positivo;+;+;+;-;-;-;-;-;-;-;-;-;-;1;1;2
+2023;29/07/2023;INTCF-Barcelona;Islas Baleares;Illes Balears;INTCF-Barcelona;Vías urbanas;Conductor;Motocicleta;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
+2023;01/07/2023;INTCF-Barcelona;Comunidad Valenciana;Alicante/Alacant;INTCF-Barcelona;Vías interurbanas;Conductor;Turismo sin remolque;55-64;Hombre;Positivo;+;-;-;-;-;-;-;-;-;-;-;-;-;1;1;1
