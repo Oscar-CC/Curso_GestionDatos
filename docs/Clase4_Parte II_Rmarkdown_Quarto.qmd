@@ -1,0 +1,78 @@
+---
+title: "Clase 4 - Parte II: Uso de R Markdown (Quarto Document)"
+author: "Oscar Carmona Castro"
+date: "2025-03-23"
+format: html
+editor: visual
+---
+
+## Introducción.
+
+En esta clase aprendimos a utilizar RMarkdown (Quarto Document) para elaborar informes, diapositivas y documentos en distintos formatos como HTML, Word y PDF. (**instructor: David Murillo**).
+
+## Ejercicios.
+
+**Ejemplo para cambio de formato de texto.**
+
+##### 1. Cargar paquetes.
+
+###### 1.1. Utilizaremos el comando "library" para cargar el *paquete* **tidyverse**.
+
+::: panel-tabset
+## 1. Cargar paquetes
+
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+```
+
+## 2. Cargar base de datos
+
+```{r}
+Trafico = read.csv2("data/2023.Accidentes_de_Trafico_GAL.csv")
+head(Trafico)
+```
+
+## 3. Ecuación
+
+$$M = s/d$$
+
+## 4. Mostrar resultados sin código
+
+Realizar un resumen de datos donde se muestre la cantidad de accidentes por año.
+
+```{r Resultado, echo=FALSE}
+Trafico |>
+  group_by(Ano) |>
+  count()
+```
+
+## 5. Mostrar gráfica
+
+```{r, fig.align='center', fig.keep='all'}
+ggplot(Trafico, aes(x = Sexo, y = Resultado.toxic..positivo)) + 
+  geom_col()
+```
+
+## 6. Revisar estructura de datos
+
+```{r}
+Trafico |>
+  glimpse()
+```
+
+## 7. Insertar archivos
+::: panel-tabset
+### 7.1 Insertar sitio web
+
+[HN Biology](https://www.hnbiology.org/)
+
+[GWWA](https://doi.org/10.1002/ecs2.4443)
+
+### 7.2 Insertar .pdf
+
+[pdf](Schofield%20etal_1999_The%20Process%20of%20Domestication%20in%20Triatominae.pdf)
+
+### 7.3 Insterar .html
+
+[Clase1_LimpiezaDatos](Clase1_LimpiezaDatos.html)
+:::
