@@ -1,0 +1,157 @@
+---
+title: "Clase 1. Limpieza de datos"
+author: "Oscar Carmona Castro"
+date: "2025-03-23"
+output: html_document
+---
+
+## Introducción.
+
+En esta primera clase exploramos Tidyverse, un conjunto de paquetes en R diseñado para la manipulación, visualización y análisis de datos de manera eficiente y estructurada. Nos enfocamos en los conceptos fundamentales para la limpieza de datos, una etapa clave en cualquier análisis, que nos permitió transformar datos crudos en información lista para su exploración y modelado (**instructor: David Murillo**).
+
+## Ejercicios.
+
+
+# { .tabset}
+## 1. Cargar paquetes
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(readxl)
+library(jsonlite)
+library(sf)
+library(terra)
+```
+
+
+## 2. Cargar bases de datos { .tabset}
+
+### 2.1 Archivos .xlsx
+```{r}
+Emisiones1 = read_excel("data/Capstone_IA_R_V3.xlsx")
+head(Emisiones1)
+```
+
+Otra forma de cargar haciendo un filtro de hojas y columnas.
+```{r}
+Emisiones2 = read_excel("data/Capstone_IA_R_V3.xlsx", sheet = 1, range = "A1:C10")
+head(Emisiones2)
+```
+
+Una manera alternativa de visualizar la base de datos, diferente del panel superior derecho (Enviroment).
+```{r}
+View(Emisiones1)
+View(Emisiones2)
+```
+
+### 2.2 Cargar archivos limitados por comas (csv)
+```{r}
+AccidentesAereos1 = read.csv("data/airkraf_accident.csv")
+head(AccidentesAereos1)
+```
+
+```{r}
+AccidentesAereos2 = read_csv("data/airkraf_accident.csv")
+head(AccidentesAereos2)
+```
+
+### 2.3 Cargar archivos delimitados por punto y coma (csv ;)
+```{r}
+Habitat = read.csv2("data/AvesHabitat.csv")
+head(Habitat)
+```
+
+```{r}
+Habitat2 = read_csv2("data/AvesHabitat.csv")
+head(Habitat2)
+```
+
+### 2.4 Cargar archivos .txt
+```{r}
+Escarabajos = read.table("data/bettles.txt")
+head(Escarabajos)
+```
+
+### 2.5 Cargar archivos JSON
+```{r}
+Calificaciones = fromJSON("data/Students_Grading_Dataset.json")
+head(Calificaciones)
+```
+
+### 2.6 Cargar archivos shapefile o gpkg
+```{r}
+Momotido = read_sf("data/Momot.gpkg")
+```
+
+### 2.7 Cargar archivos raster
+```{r}
+Elevación = rast("data/CRI_elv_msk.tif")
+```
+
+```{r}
+plot(Elevación)
+```
+
+### 2.8 Otras formas
+Panel inferior derecho: Files - buscar base datos - import database, y explorar en la visualización de base de datos (aquí se puede orservar el código utilizado).
+
+Cargar desde panel superior derecho - Import Database, y explorar en la visualización de base de datos (aquí NO se puede mirar el código utilizado).
+
+
+
+## 3. Exploración y limpieza de bases de datos { .tabset}
+
+### 3.1 Exploración por variables de interés
+Cargar archivo JSON.
+```{r}
+Calificaciones = fromJSON("data/Students_Grading_Dataset.json")
+```
+
+```{r}
+table(Calificaciones$Gender)
+```
+
+```{r}
+count(Calificaciones, Gender)
+count(Calificaciones, Department)
+```
+
+```{r}
+table(Calificaciones$Department, Calificaciones$Gender)
+count(Calificaciones, Department, Gender)
+```
+
+Mejor utilizar "count" del paquete "diplyr" porque genera un mejor filtro por columnas (variables).
+
+### 3.2 Filtrar variables: filter 
+```{r}
+Calificaciones2 = filter(Calificaciones, Final_Score > 70)
+count(Calificaciones2, Gender)
+```
+
+```{r}
+Calificaciones3 = filter(Calificaciones2, Final_Score > 80 & Department == "CS")
+head(Calificaciones3)
+```
+
+
+### 3.3 Renombrar variables: rename
+```{r}
+Calificaciones4 = rename(Calificaciones3, Apellido = Last_Name, 
+                         Nombre = First_Name)
+head(Calificaciones4)
+```
+
+```{r}
+Calificaciones5 = rename(Calificaciones4, "Asistencia" =  "Attendance (%)")
+head(Calificaciones5)
+
+```
+
+### 3.4 Crear nuevas columnas o modificar existentes: mutate
+```{r}
+Calificaciones6 = mutate(Calificaciones5, Asistencia_Promedio = Asistencia / 100)
+head(Calificaciones6)
+```
+
+
+

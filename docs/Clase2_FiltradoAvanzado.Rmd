@@ -1,0 +1,197 @@
+---
+title: "Clase 2. Filtrado avanzado"
+author: "Oscar Carmona Castro"
+date: "2025-03-23"
+output: html_document
+---
+
+## Continuación de la clase 1.
+
+En estas primeras clases exploramos Tidyverse, un conjunto de paquetes en R diseñado para la manipulación, visualización y análisis de datos de manera eficiente y estructurada. Nos enfocamos en los conceptos fundamentales para la limpieza de datos, una etapa clave en cualquier análisis, que nos permitió transformar datos crudos en información lista para su exploración y modelado (**instructor: David Murillo**).
+
+## Ejercicios.
+
+
+# { .tabset}
+## 1. Cargar paquetes
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(readxl)
+library(jsonlite)
+library(sf)
+library(terra)
+```
+
+
+## 2. Manejo de NAs { .tabset}
+
+### 2.1 Limpieza general de la base de datos
+Cargar base de datos.
+```{r}
+Food = read.csv("data/Food_Production.csv")
+```
+
+```{r}
+View(Food)
+```
+
+```{r}
+str(Food)
+```
+
+```{r}
+Food_clean <- Food |>
+  rename(Eutro_per_1k  =  Eutrophying.emissions.per.1000kcal..gPO.eq.per.1000kcal.,
+         Eutro_per_protein = Eutrophying.emissions.per.100g.protein..gPO.eq.per.100.grams.protein.,
+         Eutro_per_kg = Eutrophying.emissions.per.kilogram..gPO.eq.per.kilogram.,
+         Greenhouse_per_1k = Greenhouse.gas.emissions.per.1000kcal..kgCO.eq.per.1000kcal.,
+         Greehouse_per_protein = Greenhouse.gas.emissions.per.100g.protein..kgCO.eq.per.100g.protein.) |>
+  
+  select(Food.product:Eutro_per_protein, Greenhouse_per_1k, Greehouse_per_protein)
+```
+
+```{r}
+head(Food_clean)
+```
+
+### 2.2 Revisión de NAs (celdas sin datos): "sum(is.na())"
+```{r}
+sum(is.na(Food_clean))
+sum(is.na(Food_clean$Food.product))
+sum(is.na(Food_clean$Eutro_per_1k))
+sum(is.na(Food_clean$Greenhouse_per_1k))
+```
+
+```{r}
+summarise_all(Food_clean, ~ sum(is.na(.)))
+```
+
+### 2.3 Filtrado de NAs para eliminar filas sin datos
+
+Filtrado total de NAs.
+```{r}
+Food_filtrado1 = Food_clean %>%
+  na.omit()
+```
+
+Filtrado por variable.
+```{r}
+Food_filtrado2 = Food_clean %>%
+  filter( is.na(Eutro_per_protein))
+```
+
+Dejar filas de NAs de la variable Eutro_per_protein.
+```{r}
+Food_filtrado3 = Food_clean %>%
+  filter( !is.na(Eutro_per_protein))
+```
+
+! = contrario: # quitar filas de NAs de la variable Eutro_per_protein.
+
+### 2.4 Reemplazar NAs
+No siempre es recomendable cambiarlo por "0", pero en algunos casos si se permite.
+```{r}
+Food_replace1 = Food_clean %>%
+  mutate(Eutro_per_1k_NaRe = ifelse(is.na(Eutro_per_1k), 0, Eutro_per_1k))
+```
+
+```{r}
+Food_replace2 = Food_clean %>%
+  mutate(Eutro_per_1k_NaRe = ifelse(is.na(Eutro_per_1k), mean(Eutro_per_1k, na.rm = TRUE), Eutro_per_1k))
+```
+
+
+
+## 3. Filtrado avanzado { .tabset}
+
+Cargar base de datos.
+```{r}
+Accidentes = read.csv("data/airkraf_accident.csv")
+View(Accidentes)
+```
+
+### 3.1 Filtrado por variables de interés
+```{r}
+Accidentes_filtrado1 = Accidentes %>%
+  filter(Incident.Year == 1995) # solo 1 año
+```
+
+```{r}
+Accidentes_filtrado2 = Accidentes %>%
+  filter(Incident.Year == 1995 & Incident.Year == 1996) # 1 año y otro año
+```
+
+```{r}
+Accidentes_filtrado3 = Accidentes %>%
+  filter(Incident.Year == 1995 | Incident.Year == 1996) # uno u otro (ambos)
+```
+
+```{r}
+Accidentes_filtrado4 = Accidentes %>%
+  filter(Incident.Year %in% c(1995, 1996, 1997)) # conjunto de años
+```
+
+### 3.2 Filtrado combinado
+```{r}
+Accidentes_filtrado5 = Accidentes %>%
+  filter(Incident.Year == 1990 & (Engine1.Damage == 1 | Engine2.Damage)) %>%
+  filter(between(Speed, 500, 2000))
+```
+
+```{r}
+Accidentes_filtrado6 = Accidentes %>%
+  filter(between(Speed, 500, 1000))   
+```
+
+```{r}
+Accidentes_filtrado7 = Accidentes %>%
+  filter(Speed  > 500,  Speed < 1000)
+```
+
+```{r}
+Accidentes_filtrado8 = Accidentes %>%
+  filter_if(is.numeric, any_vars(. >2010))
+```
+
+```{r}
+Accidentes_filtrado9 = Accidentes %>%
+  filter_at(vars(contains("Damage")), any_vars(. >0))
+```
+
+```{r}
+range(Accidentes$Speed, na.rm = TRUE)
+```
+
+## 4. Reestructuración de datos { .tabset}
+### 4.1 Unir
+```{r}
+Accidentes_Fecha = Accidentes %>%
+  unite("Fecha", c(Incident.Day, Incident.Month, Incident.Year), sep = "/")
+View(Accidentes_Fecha)
+head(Accidentes_Fecha)
+```
+
+### 4.2 Separar
+```{r}
+Accidentes_Fecha2 = Accidentes_Fecha %>%
+  separate(Fecha, into = c("Dia", "Mes", "Año"), sep = "/")
+View(Accidentes_Fecha2)
+head(Accidentes_Fecha2)
+```
+
+
+## 5. Resumenes de tablas
+```{r}
+Accidentes_resumen = Accidentes |>
+  group_by(Operator.ID, Incident.Year) |>
+  summarise(CantidadAccidentes = n()) |>
+  group_by(Operator.ID) |>
+  summarise(MediaAcc = mean(CantidadAccidentes)) |>
+  arrange(desc(MediaAcc))
+```
+
+```{r}
+View(Accidentes_resumen)
+head(Accidentes_resumen)
+```
+
