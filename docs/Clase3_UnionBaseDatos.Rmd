@@ -1,0 +1,277 @@
+---
+title: "Clase 3. Union de bases de datos"
+author: "Oscar Carmona Castro"
+date: "2025-03-23"
+output: html_document
+---
+
+## Continuación de la clase 1.
+
+En estas primeras clases exploramos Tidyverse, un conjunto de paquetes en R diseñado para la manipulación, visualización y análisis de datos de manera eficiente y estructurada. Nos enfocamos en los conceptos fundamentales para la limpieza de datos, una etapa clave en cualquier análisis, que nos permitió transformar datos crudos en información lista para su exploración y modelado (**instructor: David Murillo**).
+
+## Ejercicios.
+
+
+# { .tabset}
+## 1. Cargar paquetes
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(lubridate)
+```
+
+## 2. Cargar bases de datos
+```{r}
+Covid = read.csv("data/covid_19_clean_complete_p1.csv")
+day = read.csv("data/day_wise_p1.csv")
+grouped = read.csv("data/full_grouped_p1.csv")
+world = read.csv("data/worldometer_data_p1.csv")
+```
+
+## 3. Comandos de unión de bases de datos { .tabset}
+### 3.1 Left Join
+```{r}
+Covid_left_join = Covid |>
+  left_join(world, by = "Country.Region")
+
+Covid_join2 = Covid |>
+  left_join(world, by = c("Country.Region", "WHO.Region"))
+
+head(Covid_left_join)
+
+# left join = Mantiene todas las filas del primer dataset y agrega coincidencias del segundo.
+# by = variables por las que se van a unir las bases de datos.
+```
+
+### 3.2 Right Join
+```{r}
+Covid_right_join = Covid |>
+  right_join(world, by = c("Country.Region", "WHO.Region"))
+
+head(Covid_right_join)
+
+# right join = Mantiene todas las filas del segundo dataset y agrega coincidencias del primero.
+```
+
+### 3.3 Full join
+```{r}
+Covid_full_join = Covid |>
+  full_join(world, by = c("Country.Region", "WHO.Region"))
+
+head(Covid_full_join)
+
+# Mantiene todas las filas de ambos datasets.
+```
+
+### 3.4 Inner join
+```{r}
+Covid_inner_join = Covid |>
+  inner_join(world, by = c("Country.Region", "WHO.Region"))
+
+head(Covid_inner_join)
+
+# Mantiene solo las filas con coincidencias en ambos datasets.
+```
+
+### 3.5 Semi join
+```{r}
+Covid_semi_join = Covid |>
+  semi_join(world, by = c("Country.Region", "WHO.Region"))
+
+head(Covid_semi_join)
+# Mantiene solo las filas del primer dataset que tienen coincidencias en el segundo.
+```
+
+### 3.6 Anti join
+```{r}
+Covid_anti_join = Covid |>
+  anti_join(world, by = c("Country.Region", "WHO.Region"))
+
+head(Covid_anti_join)
+
+# Mantiene solo las filas del primer dataset que no tienen coincidencias en el segundo.
+```
+
+### 3.7 Otros comandos
+Para unir tablas en base a filas.
+
+1. Tener dos tablas con mismas variables, aunque diferentes observaciones.
+```{r}
+df1 = data.frame(Valor = 1:10,
+                 Evaluacion = 1:10)
+```
+
+```{r}
+df2 = data.frame(Valor = 50:100,
+                 Evaluacion = 50:100)
+```
+
+2. Luego unir.
+```{r}
+union_df1 = bind_rows(df1, df2)
+
+head(union_df1)
+
+# bind rows = unir por filas
+```
+
+
+Unir tablas en base por columnas.
+1. Tener dos tablas con diferentes variables, pero mismas observaciones.
+```{r}
+df3 = data.frame(Valor = 1:10,
+                 Evaluacion = 1:10)
+```
+
+```{r}
+df4 = data.frame(Altura = 1:10,
+                 Peso = 1:10)
+```
+
+2. Luego unir.
+```{r}
+union_df2 = bind_cols(df3, df4)
+
+head(union_df2)
+```
+
+
+## 4. Manejo de fechas con lubridate { .tabset} 
+### 4.1 Extracción de componentes de fechas 
+```{r}
+library(lubridate)
+```
+
+```{r}
+Covid_fecha1 = Covid |> 
+  mutate(Fecha = ymd(Date))
+
+head(Covid_fecha1)
+# Ver el formato de fecha en la base de datos (ymd, dmy)
+```
+
+```{r}
+plot(Covid_fecha1$Fecha)
+```
+
+
+
+### 4.2 Obtener fecha ordinal
+```{r}
+Covid_fecha2 = Covid |> 
+  mutate(Fecha = ymd(Date)) |>
+  mutate(Fecha_ord = yday(Fecha)) |>
+  mutate(Mes = month(Fecha, label = TRUE, abbr = TRUE)) |>
+  mutate(Dia_Mes = mday(Fecha)) |>
+  mutate(Dia_Semana = wday(Fecha, label = TRUE, abbr = FALSE)) |>
+  mutate(Year = year(Fecha)) |>
+  mutate(Semana = week(Fecha)) |>
+  mutate(Dia = day(Fecha))
+```
+
+```{r}
+head(Covid_fecha2)
+```
+
+```{r}
+plot(Covid_fecha2$Fecha)
+```
+
+```{r}
+plot(Covid_fecha2$Fecha_ord)
+```
+
+
+## 5. Unir bases de datos en base a fecha { .tabset}
+```{r}
+Day_union = day |>
+  mutate(Fecha = ymd(Date)) |>
+  full_join(Covid_fecha2, by = "Fecha")
+```
+
+```{r}
+head(Day_union)
+```
+
+
+## 6. Gráficos con GGPlot { .tabset}
+### 6.1 Introducción
+
+Los gráficos en GGPlot funcionan en base a capas.
+
+1a. capa: muestra "base de datos", "x", "y".
+```{r}
+ggplot(data = Day_union, mapping = aes(x = Fecha, y = Confirmed.x))
+```
+
+2a. capa.
+```{r}
+ggplot(data = Day_union, mapping = aes(x = Fecha, y = Confirmed.x)) +
+  geom_point(color = "blue") +
+  geom_line(color = "red")
+```
+
+### 6.2 Gráfico 1
+```{r}
+ggplot(data = Day_union, mapping = aes(x = Fecha, y = Confirmed.x,
+                                       color = WHO.Region)) +
+  geom_point() +
+  geom_line()
+```
+
+### 6.3 Gráfico 2
+```{r}
+ggplot(data = Day_union, mapping = aes(x = Fecha, y = Confirmed.x)) +
+  geom_point() +
+  geom_line() +
+  facet_grid(~WHO.Region)
+```
+
+### 6.4 Gráfico 3
+```{r}
+ggplot(data = Day_union, mapping = aes(x = Fecha, y = Confirmed.x)) +
+  geom_point() +
+  geom_line() +
+  facet_wrap(~WHO.Region, nrow = 3, ncol = 2) +
+  theme_classic() +
+  scale_y_continuous(limits = c(0,150000000)) +
+  theme(axis.text.x = element_text(angle = 90))
+    
+# modificar ángulo de ejes
+```
+
+### 6.5 Cambiar escala
+```{r}
+ggplot(data = Day_union, mapping = aes(x = Fecha, y = Confirmed.x)) +
+  geom_point() +
+  geom_line() +
+  facet_wrap(~WHO.Region, nrow = 3, ncol = 2) +
+  theme_classic() +
+  scale_y_continuous(labels = scales::comma) +
+  theme(axis.text.x = element_text(angle = 90))
+```
+
+### 6.6 Gráfico de barras
+```{r}
+ggplot(Day_union, aes(x = WHO.Region, y = New.cases, fill = WHO.Region)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Nuevos casos por región de la OMS",
+       x = "Región OMS",
+       y = "Nuevos casos") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  scale_fill_brewer(palette = "Set3")
+```
+
+### 6.7 Gráfico de dispersión
+```{r}
+ggplot(Day_union, aes(x = Confirmed.x, y = Deaths.x, color = WHO.Region)) +
+  geom_point(alpha = 0.6) +
+  labs(title = "Relación entre casos confirmados y muertes",
+       x = "Casos confirmados",
+       y = "Muertes") +
+  theme_minimal() +
+  scale_x_log10() +  # Escala logarítmica para mejor visualización
+  scale_y_log10() +
+  theme(legend.position = "bottom")
+```
+
