@@ -1,0 +1,178 @@
+---
+title: "Clase 6. Gráficos interactivos con plotly"
+author: "Oscar Carmona Castro"
+date: "2025-03-23"
+output: html_document
+---
+
+## Introducción.
+
+plotly es una poderosa librería que permite crear gráficos interactivos y visualmente atractivos directamente desde R. A diferencia de los gráficos estáticos generados con ggplot2, los gráficos de plotly permiten al usuario explorar los datos dinámicamente: hacer zoom, mover el gráfico, ver valores al pasar el cursor y seleccionar elementos específicos. (**instructor: David Murillo**).
+
+## Ejercicios.
+
+
+# { .tabset}
+## 1. Cargar paquetes
+```{r, message=FALSE, warning=FALSE}
+library(plotly)
+library(tidyverse)
+library(ggplot2)
+library(GGally)
+library(FactoMineR)
+library(factoextra)
+```
+
+
+## 2. Cargar base datos
+```{r}
+Estudiantes = read.csv("data/StudentsPerformance.csv")
+head(Estudiantes)
+```
+
+
+## 3. Gráfico de puntos
+```{r}
+plot_ly(data = Estudiantes, x = ~ math.score, y = ~ reading.score,
+        type = "scatter", mode = "markers",
+        color = ~ gender,
+        text = ~ paste("Puntuación de escritura:", writing.score),
+        marker = list(size =7)) |>
+  layout(title = "Calificación por género")
+```
+
+
+## 4. Gráfico de barras
+Primero hacer una tabla resumen.
+```{r}
+pre_conteos = Estudiantes |>
+  count(test.preparation.course) |>
+  rename("Cantidad" = n,
+         "Preparacion" = test.preparation.course)
+```
+
+Luego graficar.
+```{r}
+plot_ly(data = pre_conteos, x = ~ Preparacion, y = ~ Cantidad,
+        type = "bar") |>
+  layout(title = "Estudiantes que se prepararon",
+         xaxis = list(title = "Preparación"),
+         yaxis = list(title = "Cantidad de estudiantes"))
+```
+
+
+## 5. Histograma
+```{r}
+plot_ly(data = Estudiantes, x = ~ math.score,
+        type = "histogram", nbinsx = 50,
+        marker = list(color = "lightblue"))
+```
+
+
+## 6. Gráfico de densidad
+Primero hacer un ggplot (gráfico estático).
+```{r}
+plot_math = ggplot(Estudiantes, aes(x = math.score, fill = gender)) +
+  geom_density() +
+  theme_classic()
+```
+
+```{r}
+plot_math
+```
+
+Luego agregar un plotly.
+```{r}
+ggplotly(plot_math)
+```
+
+
+## 7. Gráfico de caja
+```{r}
+plot_ly(data = Estudiantes, x = ~ math.score, y = ~ lunch,
+        type = "box", boxpoints = "all",
+        color = ~ gender,
+        pointpos = -1.8,
+        jitter = 1.4) |>
+  layout(boxmode = "group")
+```
+
+
+## 8. Gráfico multivariado { .tabset}
+### 8.1 Gráfico de correlación múltiple
+```{r}
+library(GGally)
+```
+
+```{r}
+ggpairs(Estudiantes[ ,6:8]) +
+  theme_classic() +
+  labs(title = "Correlación múltiple")
+```
+
+Luego crearlo como objeto.
+```{r}
+CorPlot = ggpairs(Estudiantes[ ,6:8]) +
+  theme_classic() +
+  labs(title = "Correlación múltiple")
+```
+
+```{r}
+ggplotly(CorPlot)
+```
+
+### 8.2 Gráfico componentes principales (PCA)
+```{r}
+library(FactoMineR)
+library(factoextra)
+```
+
+Primero buscar una variables que sea factor (género), ó transformarla a factor.
+```{r}
+PCA_genero = PCA(Estudiantes[ ,6:8])
+```
+
+```{r}
+Genero = as.factor(Estudiantes$gender)
+```
+
+```{r}
+fviz_pca_biplot(PCA_genero,
+                axes = c(1,2),
+                geom = c("point"),
+                palette = c("red", "blue"),
+                addEllipses = TRUE,
+                label = "none",
+                habillage = Genero, 
+                col.var = NA) +
+  labs(title = "PCA Género",
+       y = "Dimensión 2(7.9%)",
+       x = "Dimensión 1(90.6%)",
+       color = "Género",
+       fill = "Género",
+       shape = "Género")
+```
+
+Luego convertirlo en objeto para pasarlo a plotly.
+```{r}
+PCA_plot = fviz_pca_biplot(PCA_genero,
+                axes = c(1,2),
+                geom = c("point"),
+                palette = c("red", "blue"),
+                addEllipses = TRUE,
+                label = "none",
+                habillage = Genero, 
+                col.var = NA) +
+  labs(title = "PCA Género",
+       y = "Dimensión 2(7.9%)",
+       x = "Dimensión 1(90.6%)",
+       color = "Género",
+       fill = "Género",
+       shape = "Género")
+```
+
+```{r}
+ggplotly(PCA_plot)
+```
+
+

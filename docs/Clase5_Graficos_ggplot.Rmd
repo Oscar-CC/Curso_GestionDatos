@@ -1,0 +1,280 @@
+---
+title: "Clase 5. Gráficos con ggplot2"
+author: "Oscar Carmona Castro"
+date: "2025-03-23"
+output: html_document
+---
+
+## Introducción.
+
+En esta clase aprendimos el uso de ggplot 2, el cual permite crear gráficos de manera estructurada utilizando un enfoque basado en capas.  (**instructor: David Murillo**).
+
+## Ejercicios.
+
+
+# { .tabset}
+## 1. Cargar paquetes
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+```
+
+## 2. Cargar base de datos
+```{r}
+ComidaRapida = read.csv("data/fastfood.csv")
+head(ComidaRapida)
+```
+
+
+## 3. Gráfico de dispersión (dos variables numéricas)
+```{r}
+ggplot(data = ComidaRapida, aes(x = calories, y = total_fat)) +
+  geom_point(color = "gray15", size = 3) + 
+  geom_smooth(method = lm, color = "red") + 
+  theme_classic()
+
+?geom_point
+
+# geom_smooth: agregar línea de tendencia.
+# en la línea de código de geom_smooth: cambiar el color de línea.
+# en línea de código de geom_point: cambiar forma, color, tamaño, etc.
+# ?geom_point: te da algunas opciones para cambio de formato, pero otra alternativa sería una búsqueda de código en internet.
+```
+
+
+## 4. Gráfico de barras (1 variable a la vez)
+```{r}
+ggplot(ComidaRapida, aes(y = restaurant)) +
+  geom_bar(fill = "lightblue",
+           color = "darkblue",
+           widht = 0.7) +
+  theme_classic()
+
+# fill: relleno de la barras.
+# color: línea de las barras.
+# widht: ancho de las barras.
+```
+
+
+```{r}
+table(ComidaRapida$restaurant)
+```
+
+```{r}
+ggplot(ComidaRapida, aes(x = restaurant, fill = restaurant)) +
+  geom_bar(color = "darkblue",
+           widht = 0.7) +
+  theme_classic()
+
+# fill: relleno de la barras. En este ejemplo cambiamos la posición de "fill" y ordenamos que el color sea para la variable restaurante (color por barra)
+# color: línea de las barras.
+# widht: ancho de las barras.
+```
+
+```{r}
+ggplot(ComidaRapida, aes(x = restaurant, fill = restaurant)) +
+  geom_bar(color = "darkblue",
+           widht = 0.7) +
+  theme_classic() +
+  theme(axis.text.x = element_blank())
+
+
+# fill: relleno de la barras. En este ejemplo cambiamos la posición de "fill" y ordenamos que el color sea para la variable restaurante (color por barra)
+# color: línea de las barras.
+# widht: ancho de las barras.
+# theme(axis.text.x = element_blank: quitar leyenda de cada barra.
+
+# theme(axis.text.x = element_text(angle = 45): Para colocar leyenda de eje "x" en un ángulo de 45°.
+```
+
+
+## 5. Histograma (1 variable a la vez)
+```{r}
+ggplot(ComidaRapida, aes(x = calories)) +
+  geom_histogram(binwidth = 30,
+                 fill = "lightblue",
+                 color = "darkblue")
+
+# bindwidth: ancho de las bandas.
+```
+
+
+## 6. Gráfico de cajas (1 variable o más variables)
+```{r}
+ggplot(ComidaRapida, aes(y = calories)) +
+  geom_boxplot()
+```
+
+```{r}
+ggplot(ComidaRapida, aes(x = restaurant, y = calories)) +
+  geom_boxplot() + 
+  theme_classic()
+```
+
+Explicación de los boxplot:
+
+1. La línea es la mediana.
+
+2. Cuartil 1 (abajo). Datos al 25%.
+
+3. Cuartil 3 (ariba). Datos al 75%.
+
+4. Bigotes (pueden ser los IC/SE).
+
+5. Outliers.
+
+No es recomendable utilizar para comparar medias.
+
+
+## 7. Gráfico de violín (similar al boxplot)
+```{r}
+ggplot(ComidaRapida, aes(x = restaurant, y = calories)) +
+  geom_violin() + 
+  geom_boxplot(alpha = 0.8) +
+  labs(title = "Gráfico de caja",
+       y = "Calorias",
+       x = "Restaurantes")
+  theme_classic()
+```
+
+```{r}
+ggsave("graficocaja.png", plot = last_plot(),
+       width = 16, height = 8, units = "cm",
+       dpi = 450)
+
+# AQUÍ AL MOMENTO DE GUARDAR PODEMOS AJUSTAR EL ANCHO DEL EJE "X" Y EJE "Y". NO CONFIARSE DE LA VISUALIZACIÓN PRECIA EN R-STUDIO.
+```
+
+
+Otra forma de código. El resultado es el mismo.
+```{r}
+ggplot(ComidaRapida, aes(x = restaurant, y = calories)) +
+  geom_violin() + 
+  ylab("Calorias")+
+  xlab("Restaurantes") +
+  ggtitle("Gráfico de caja") +
+  geom_boxplot(alpha = 0.8)
+```
+
+## 8. Gráfico por facetas (1 varable categórica)
+```{r}
+ggplot(ComidaRapida, aes(x = calories, y = sodium)) +
+  geom_point() +
+  geom_smooth(method = lm) +
+  facet_wrap(~restaurant) +
+  theme_classic()
+```
+
+
+## 9. Gráfico modelo cuadrático
+```{r}
+ggplot(ComidaRapida, aes(x = calories, y = sodium)) +
+  geom_point() +
+  stat_smooth(method = lm, formula = y~x+I(x^2)) +
+  facet_wrap(~restaurant) +
+  theme_classic()
+```
+
+## 10. Gráficos complejos { .tabset}
+### 10.1 Histograma y densidad
+```{r}
+ggplot(ComidaRapida, aes(x = calories)) +
+  geom_histogram(binwidth = 30,
+                 fill = "lightblue",
+                 color = "darkblue")
+```
+
+```{r}
+ggplot(ComidaRapida, aes(x = calories)) +
+  geom_histogram(aes(y = after_stat(density))) +
+  geom_density(alpha = 0.5, fill = "lightgreen")
+```
+
+### 10.2 Gráfico con escalas personalizadas
+```{r}
+ggplot(ComidaRapida, aes(x = calories, y = total_fat,
+                         color = restaurant,
+                         size = sodium)) +
+  geom_point(alpha = 0.5) + 
+  scale_x_continuous(limits = c(0,1500), breaks = seq(0,1500, 250)) +
+  scale_y_continuous(limits = c(0,100), breaks = seq(0,100, 20)) +
+  scale_color_manual(values = c("green", "red", "black", "blue", "orange", "brown", "darkgreen", "yellow")) +
+  theme_classic()
+
+# IMPORTANTE PARA ESCALA DE EJES
+```
+
+### 10.3 Degradado del mismo color
+Solo para variables numéricas.
+```{r}
+ggplot(ComidaRapida, aes(x = calories, y = total_fat,
+                         color = sodium)) +
+  geom_point(alpha = 0.5) + 
+  scale_x_continuous(limits = c(0,1500), breaks = seq(0,1500, 250)) +
+  scale_y_continuous(limits = c(0,100), breaks = seq(0,100, 20)) +
+  scale_color_gradient() +
+  theme_classic()
+```
+
+
+```{r}
+ggplot(ComidaRapida, aes(x = calories, y = total_fat,
+                         color = sodium)) +
+  geom_point(alpha = 0.5) + 
+  scale_x_continuous(limits = c(0,1500), breaks = seq(0,1500, 250)) +
+  scale_y_continuous(limits = c(0,100), breaks = seq(0,100, 20)) +
+  scale_color_gradient(low = "lightgreen", high = "red") +
+  theme_classic()
+```
+
+
+### 10.4 Gráfico con variables transformadas
+```{r}
+ggplot(ComidaRapida, aes(x = log(calories), y = log(total_fat),
+                         color = log(sodium))) +
+  geom_point() + 
+  scale_color_gradient(low = "lightgreen", high = "red") +
+  theme_classic()
+
+# únicamente colocando "log" antes de la variable que queremos transformar.
+```
+
+### 10.5 Gráfico de barras agrupadas
+Primero preparar tabla.
+```{r}
+ComidaRapida_resumen = ComidaRapida |>
+  group_by(restaurant) |>
+  summarise(grasa_sat = mean(sat_fat, na.rm = TRUE),
+            grasa_trans = mean(trans_fat, na.rm = TRUE)) |>
+  pivot_longer(cols = c(grasa_sat, grasa_trans), names_to = "grasa")
+View(ComidaRapida_resumen)
+```
+
+Luego graficar.
+```{r}
+ggplot(ComidaRapida_resumen, aes(x = restaurant, y = value,
+                                 fill = grasa)) +
+  geom_bar(stat = "identity", position = "dodge") + 
+  theme_classic()
+```
+
+### 10.6 Gráfico de calor
+```{r}
+ggplot(ComidaRapida, aes(x = restaurant, y = calories, fill = sodium)) +
+  geom_tile() + 
+  scale_fill_gradient(low = "yellow",  high = "red") +
+  theme_classic() 
+
+# theme axis: solo para visualizar el formato del eje "x"
+```
+
+```{r}
+ggsave("GraficoCalor.png", plot = last_plot(),
+       width = 18, height = 8, units = "cm",
+       dpi = 450)
+```
+
+
+
+
+
+
