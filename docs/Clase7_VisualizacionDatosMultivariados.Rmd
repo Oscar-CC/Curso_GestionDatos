@@ -1,0 +1,257 @@
+---
+title: "Clase 7. Visualización de Datos Multivariados"
+author: "Oscar Carmona Castro"
+date: "2025-03-23"
+output: html_document
+---
+
+## Introducción.
+
+En análisis de datos, muchas veces trabajamos con múltiples variables que pueden estar correlacionadas o influir entre sí. La visualización multivariada permite explorar estas relaciones de manera clara, ayudándonos a:
+
+* Detectar patrones y agrupaciones.
+
+* Identificar relaciones entre variables.
+
+* Reducir la dimensionalidad para facilitar la interpretación.
+
+(**instructor: David Murillo**).
+
+## Ejercicios.
+
+
+# { .tabset}
+## 1. Cargar paquetes
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(vegan)
+```
+
+
+## 2. Cargar base de datos
+```{r}
+Estudiantes = read.csv("data/StudentsPerformance.csv")
+```
+
+
+## 3. NMDS (análisis multivariado) { .tabset}
+Utilizado para analizar datos de Ecología.
+
+La idea de NDMS es tener muchas variables.
+
+```{r}
+NMDS_est = metaMDS(Estudiantes[ ,6:8],
+                   trymax = 100, try = 100, # número de permutaciones
+                   distance = "euclidean") # método de distancia
+```
+
+```{r}
+NMDS_est$stress
+```
+
+### 3.1 Extraer
+```{r}
+Puntos_df = data.frame(NMDS_est$points)
+Puntos_df$Genero = Estudiantes$gender
+```
+
+```{r}
+head(Puntos_df)
+```
+
+```{r}
+Calificaciones = data.frame(NMDS_est$species)
+```
+
+```{r}
+Calificaciones$Calificacion = row.names(Calificaciones)
+```
+
+```{r}
+head(Calificaciones)
+```
+
+
+### 3.2 Graficar
+?stat_ellipse
+```{r}
+ggplot() +
+  geom_point(data = Puntos_df, aes(x = MDS1, y = MDS2, color = Genero),
+             alpha = 0.4) +
+  stat_ellipse(data = Puntos_df, aes(x= MDS1, y = MDS2, color = Genero, fill = Genero),
+               geom = "polygon", alpha = 0.6) +
+  geom_text(data = Calificaciones, aes(x = MDS1, y = MDS2, label = Calificacion)) +
+  theme_classic()
+
+```
+
+
+## 4. NMDS escalado { .tabset}
+```{r}
+NMDS_est = metaMDS(scale(Estudiantes[,6:8]), trymax = 100, try = 100, 
+                   distance = "euclidean")
+```
+
+```{r}
+NMDS_est$stress
+```
+
+### 4.1 Extraer
+```{r}
+Puntos_df = data.frame(NMDS_est$points)
+Puntos_df$Genero = Estudiantes$gender
+```
+
+```{r}
+head(Puntos_df)
+```
+
+```{r}
+Calificaciones = data.frame(NMDS_est$species)
+```
+
+```{r}
+Calificaciones$Calificacion = row.names(Calificaciones)
+```
+
+```{r}
+head(Calificaciones)
+```
+
+### 4.2 Graficar
+```{r}
+ggplot() +
+  geom_point(data = Puntos_df, aes(x = MDS1, y = MDS2, color = Genero),
+             alpha = 0.4) +
+  stat_ellipse(data = Puntos_df, aes(x= MDS1, y = MDS2, color = Genero, fill = Genero),
+               geom = "polygon", alpha = 0.6)
+
+```
+
+
+## 5. Redes tróficas { .tabset}
+Primer ejemplo.
+
+### 5.1 Cargar paquetes
+```{r, message=FALSE, warning=FALSE}
+library(igraph)
+library(ggraph)
+```
+
+### 5.2 Base de datos de relaciones
+Base de datos ficticia
+```{r}
+Organismos <- c("Águila", "Serpiente", "Rana", "Insecto", "Planta", "Ratón", "Zorro")
+```
+
+```{r}
+relaciones <- data.frame(
+  from = c("Águila", "Águila", "Zorro", "Serpiente", "Rana", "Ratón", "Insecto"), 
+  to   = c("Serpiente", "Zorro", "Ratón", "Rana", "Insecto", "Planta", "Planta")
+)
+
+# from: depredador
+# to: presa
+```
+
+### 5.3 Crear objeto de la red trófica
+?graph_from_data_frame()
+```{r}
+red_trofico = graph_from_data_frame(relaciones, vertices = Organismos)
+```
+
+### 5.4 Graficar con ggraph
+```{r}
+ggraph(red_trofico, layout = "circle") +
+  geom_edge_link(arrow = arrow(length = unit(4, "mm")),
+                 end_cap = circle(3, "mm"),
+                 color = "darkred") +
+  geom_node_point(size = 8, color = "darkgreen") +
+  geom_node_text(aes(label = name), repel = TRUE, color = "blue",
+                 fontface = "italic") +
+  labs(title = "Red trófica") +
+  theme_classic()
+```
+
+### 5.5 Red Trófica Compleja
+Segundo ejemplo: complejo.
+```{r}
+set.seed(123)  # Para reproducibilidad
+
+# Simular 30 organismos con nombres genéricos
+organismos <- paste("Especie", 1:30)
+
+# Crear 50 interacciones aleatorias (sin loops: un organismo no se depreda a sí mismo)
+relaciones <- data.frame(
+  from = sample(organismos, 50, replace = TRUE),
+  to = sample(organismos, 50, replace = TRUE)
+) %>% 
+  filter(from != to) %>%  # Eliminar loops
+  distinct()              # Eliminar duplicados
+
+# Asegurar al menos 50 relaciones únicas
+while(nrow(relaciones) < 50) {
+  extra <- data.frame(
+    from = sample(organismos, 10, replace = TRUE),
+    to = sample(organismos, 10, replace = TRUE)
+  ) %>% filter(from != to)
+  
+  relaciones <- bind_rows(relaciones, extra) %>% distinct()
+}
+
+# Crear objeto de red
+red_compleja <- graph_from_data_frame(relaciones, vertices = organismos)
+```
+
+Graficar.
+```{r}
+ggraph(red_compleja, layout = "fr") +
+  geom_edge_link(arrow = arrow(length = unit(3, 'mm')), 
+                 end_cap = circle(2, 'mm'), 
+                 color = "darkblue", alpha = 0.7) +
+  geom_node_point(size = 5, color = "darkorange") +
+  geom_node_text(aes(label = name), repel = TRUE, size = 3, color = "black") +
+  theme_void() +
+  labs(title = "Red Trófica Simulada Compleja") +
+  theme(plot.title = element_text(size = 16, face = "bold", hjust = 0.5))
+```
+
+
+## 6. Cladograma (ggtrip) { .tabset}
+### 6.1 Instalar paquetes desde otros sitios
+```{r}
+if (!require("BiocManager", quietly = TRUE))
+      install.packages("BiocManager")
+```
+
+```{r}
+BiocManager::install("ggtree")
+```
+
+```{r}
+library(ggtree)
+library(ape)
+```
+
+### 6.2 Simular datos
+```{r}
+set.seed(123)
+```
+
+### 6.3 Arbol aleatorio
+```{r}
+arbol = rtree(30)
+```
+
+### 6.4 Renombrar especies
+```{r}
+arbol$tip.label = paste("Ave", 1:30)
+```
+
+### 6.5 Graficar
+```{r}
+ggtree(arbol) +
+  geom_tiplab(size = 3, fontface = "italic")
+```
+
+

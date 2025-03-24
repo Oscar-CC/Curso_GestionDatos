@@ -1,0 +1,236 @@
+---
+title: "Clase 8. Visualización de Modelos Estadísticos"
+author: "Oscar Carmona Castro"
+date: "2025-03-23"
+output: html_document
+---
+
+## Introducción.
+
+La visualización de datos es una herramienta poderosa en el análisis estadístico que no solo facilita la comprensión de los resultados, sino que también ayuda a comunicar de manera efectiva las conclusiones obtenidas a partir de modelos estadísticos. En esta clase exploramos diferentes métodos para visualizar los resultados de modelos lineales (LM), modelos lineales generalizados (GLM) (**instructor: David Murillo**).
+
+## Ejercicios.
+
+
+# { .tabset}
+## 1. Cargar paquetes
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(ggeffects)
+library(sjPlot)
+library(emmeans)
+library(ggplot2)
+```
+
+## 2. Cargar base datos
+```{r}
+Accidentes = read.csv2("data/2023.Accidentes_de_Trafico_GAL.csv")
+```
+
+## 3. Ajustes a bases de datos { .tabset}
+### 3.1 Convertir categorías a factor
+Primer ejercicio.
+```{r}
+Accidentes2 = Accidentes |> 
+  mutate(across( c(Territorio.INTCF, CCAA, Provincia,
+                Organismo, Zona, Rol.no.sinistro,
+                Tipo.vehículo, Rango.de.idade, Sexo,
+                Resultado.toxic..positivo), as.factor ))
+```
+
+```{r}
+Accidentes2 = Accidentes2 |> 
+  mutate(Toxico_pos = ifelse(Resultado.toxicolóxico == "Positivo", 1, 0) )
+```
+
+```{r}
+table(Accidentes2$Toxico_pos)
+class(Accidentes2$Toxico_pos)
+```
+
+Segundo ejercicio.
+```{r}
+Accidentes2 = Accidentes2 %>% 
+  mutate(across( c(Etanol:Opioides), ~ifelse(. == "+",1,0 ) ) ) %>% 
+  mutate(Fecha = dmy(Data)) %>% 
+  mutate(Fecha_ord = yday(Fecha) ) %>% 
+  mutate(Resul_pos = as.numeric(Resultado.toxic..positivo))
+```
+
+```{r}
+table(Accidentes2$Resul_pos)
+```
+
+## 4. Modelado { .tabset}
+### 4.1 Modelo 1 variable
+```{r}
+Modelo1 <- lm(Resul_pos ~ Fecha_ord, data= Accidentes2)
+```
+
+```{r}
+summary(Modelo1)
+```
+
+```{r}
+NewTabla <- data.frame(Fecha_ord =  seq(min(Accidentes2$Fecha_ord, na.rm = TRUE),
+                                        max(Accidentes2$Fecha_ord, na.rm = TRUE),
+                                        length = 100  ))
+```
+
+```{r}
+Data_pre <-  predict(Modelo1, newdata = NewTabla, se.fit = TRUE)
+```
+
+```{r}
+NewTabla$Toxico <- Data_pre$fit
+NewTabla$Es <- Data_pre$se.fit
+```
+
+```{r}
+ggplot(NewTabla, aes(x= Fecha_ord, y= Toxico))+
+  geom_ribbon(aes(ymin = Toxico - Es,
+                  ymax = Toxico + Es),
+              fill = "lightblue", alpha = 0.5) +
+  geom_line() +
+  theme_classic()
+```
+
+### 4.2 Modelado dos variables
+```{r}
+Modelo2 = lm(Resul_pos ~ Fecha_ord + Sexo, data = Accidentes2)
+```
+
+```{r}
+summary(Modelo2)
+```
+
+```{r}
+NewTabla = data.frame(Fecha_ord = seq(min(Accidentes2$Fecha_ord, na.rm = TRUE),
+                                      max(Accidentes2$Fecha_ord, na.rm = TRUE),
+                                      length = 100),
+                      Sexo = "Mujer")
+```
+
+```{r}
+Data_pre =  predict(Modelo2, newdata = NewTabla, se.fit = TRUE)
+```
+
+```{r}
+NewTabla$Toxico = Data_pre$fit
+NewTabla$Es = Data_pre$se.fit
+```
+
+```{r}
+ggplot(NewTabla, aes(x= Fecha_ord, y= Toxico))+
+  geom_ribbon(aes(ymin = Toxico - Es,
+                  ymax = Toxico + Es),
+              fill = "lightblue", alpha = 0.5) +
+  geom_line() +
+  theme_classic()
+```
+
+### 4.3 Otro ejemplo
+```{r}
+NewTabla = data.frame(Fecha_ord = mean(Accidentes2$Fecha_ord,
+                                       na.rm = TRUE),
+                      Sexo = c("Mujer", "Hombre"))
+```
+
+```{r}
+Data_pre =  predict(Modelo2, newdata = NewTabla, se.fit = TRUE)
+```
+
+```{r}
+NewTabla$Toxico = Data_pre$fit
+NewTabla$Es = Data_pre$se.fit
+```
+
+```{r}
+ggplot(data = NewTabla, aes(x = Sexo, y = Toxico)) +
+  geom_point(size = 5, shape = 16) +
+  geom_errorbar(aes(ymin = Toxico - Es,
+                    ymax = Toxico + Es)) +
+  ylim(1.25, 2) +
+  theme_classic()
+```
+
+```{r}
+ggplot(data = NewTabla, aes(x = Sexo, y = Toxico)) +
+  geom_col() +
+  geom_errorbar(aes(ymin = Toxico - Es,
+                    ymax = Toxico + Es)) +
+  theme_classic()
+```
+
+
+## 5. Formas alternativas para graficar { .tabset}
+### 5.1 ggefects
+```{r}
+library(ggeffects)
+```
+
+Fecha ordinal
+```{r}
+plot(ggpredict(Modelo2, terms = "Fecha_ord[ n= 100"))
+```
+
+Sexo
+```{r}
+plot(ggpredict(Modelo2, terms = "Sexo"))
+```
+
+### 5.2 sjPlot
+```{r}
+library(sjPlot)
+```
+
+Fecha ordinal
+```{r}
+sjPlot::plot_model(Modelo2, type = "pre", terms = "Fecha_ord[ n= 100") +
+  theme_classic() +
+  labs(title = "Título")
+```
+
+Sexo
+```{r}
+sjPlot::plot_model(Modelo2, type = "pre", terms = "Sexo") +
+  theme_classic() +
+  labs(title = "Título")
+```
+
+### 5.3 emmeans 
+Para variables categóricas.
+```{r}
+library(emmeans)
+```
+
+```{r}
+Emm = emmeans(Modelo2, ~ Sexo)
+```
+
+```{r}
+plot(Emm, type = "response",
+     horizontal = TRUE,                # para girar ejes
+     colors = c("tomato", "black"), # colores niveles
+     lwd = 2,                          # grosor líneas
+     pch = 19,                         # tipo puntos
+     cex = 1.2,                        # tamaño puntos
+     xlab = "Victimas mortales esperadas + IC 95%",
+     ylab = "Tipo de vehículo") +
+  theme_classic() + 
+  labs(title = "Título")
+```
+
+
+### 5.4 ggplot
+```{r}
+ggplot(data = Accidentes2, aes(x= Fecha_ord, y= Toxico_pos)) +
+  stat_smooth(method = "glm")
+```
+
+```{r}
+plot(ggpredict(glm(Toxico_pos ~ Fecha_ord,
+                   family = "binomial", data = Accidentes2)))
+```
+
+
