@@ -1,0 +1,35 @@
+---
+title: 'Repositorio: Curso Gestión de Datos'
+author: "Oscar Carmona Castro"
+date: "2025-03-24"
+output: html_document
+---
+
+
+
+
+### **Índice de clases.**
+
+[Clase 1. Limpieza de datos](Clase1_LimpiezaDatos.html)
+
+[Clase 2. Filtrado avanzado](Clase2_FiltradoAvanzado.html) 
+
+[Clase 3. Unión de bases de datos](Clase3_UnionBaseDatos.html)
+
+[Clase 4 - Parte I: Uso de R Markdown (R Notebook)](Clase4_Parte I_Rmarkdown-Notebook.html) 
+
+[Clase 4 - Parte II: Uso de R Markdown (Quarto Document)](Clase4_Parte II_Rmarkdown_Quarto.html)
+
+[Clase 5. Gráficos con ggplot2](Clase5_Graficos_ggplot.html)
+
+[Clase 6. Gráficos interactivos con plotly](Clase6_Graficos_ggplotly.html)
+
+[Clase 7. Visualización de Datos Multivariados](Clase7_VisualizacionDatosMultivariados.html) 
+
+[Clase 8. Visualización de Modelos Estadísticos](Clase8_VisualizacionModelosEstadisticos.html)
+
+[Clase 9. Gráficos dinámicos: gganimate](Clase9_GraficosDinamicos_gganimate.html)
+
+
+
+
