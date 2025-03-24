@@ -1,0 +1,197 @@
+---
+title: "Clase 9. Gráficos dinámicos: gganimate"
+author: "Oscar Carmona Castro"
+date: "2025-03-23"
+output: html_document
+---
+
+## Introducción.
+
+gganimate es una extensión del paquete ggplot2 que permite crear gráficos animados. Permite mostrar cambios en los datos a lo largo del tiempo o de alguna otra dimensión (por ejemplo, categorías, etapas, etc.). Las animaciones pueden ser exportadas como GIF, MP4 o HTML (**instructor: David Murillo**).
+
+## Ejercicios.
+
+
+# { .tabset}
+## 1. Cargar paquetes
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(gganimate)
+library(leaflet)
+library(maps)
+```
+
+## 2. Cargar base de datos
+```{r}
+Covid = read.csv("data/covid_19_clean_complete_p1.csv")
+```
+
+## 3. Preparar variables temporales (fecha) { .tabset}
+```{r}
+Covid = Covid |>
+  mutate(Fecha = ymd(Date))
+```
+
+### 3.1 Primer ejemplo { .tabset}
+#### 3.1.1 Gráfico estático
+
+Ejemplo: Casos confirmados vs Fecha; Países vs Fecha.
+
+Filtrado de algunos países.
+```{r}
+Covid_Filtrado = Covid |>
+  filter(Country.Region %in% c("Mexico", "Ecuador", "Honduras"))
+
+View(Covid_Filtrado)
+```
+
+```{r}
+head(Covid_Filtrado)
+```
+
+
+```{r}
+ggplot(data = Covid_Filtrado, aes(x = Fecha, y = Confirmed,
+                                  color = Country.Region)) +
+  geom_line()
+
+```
+
+
+#### 3.1.2 Gráfico dinámico
+
+Guardar gráfico como objeto.
+```{r}
+Animado_p1 = ggplot(data = Covid_Filtrado, aes(x = Fecha, y = Confirmed, color = Country.Region )) +
+  geom_line() +
+  transition_reveal(Fecha) + 
+  ease_aes("linear")
+```
+
+```{r}
+Animacion_p1 = animate(Animado_p1,
+                       width = 15, 
+                       height = 7, 
+                       units = "cm", 
+                       res = 192,
+                       fps = 20,
+                       duration = 5,
+                       renderer = magick_renderer()) 
+```
+
+```{r}
+Animacion_p1
+```
+
+```{r}
+anim_save("Animacion1.gif", Animacion_p1)
+```
+
+
+### 3.2 Segundo ejemplo { .tabset}
+#### 3.2.1 Gráfico estático
+```{r}
+Covid_bar = Covid_Filtrado |>
+  group_by(Fecha) |>
+  mutate(rank = rank(-Confirmed)) |>
+  filter(rank <= 5)
+```
+
+```{r}
+Barra_animado = ggplot(data = Covid_bar,
+                       aes(x = reorder(Country.Region, Confirmed),
+                           y = Confirmed,
+                           fill = Country.Region)) +
+  coord_flip() +
+  geom_col() +
+  transition_time(Fecha) +
+  ease_aes("linear")
+```
+
+#### 3.2.2 Gráfico dinámico
+```{r}
+Animacion_p2 = animate(Barra_animado,
+                       width = 15, 
+                       height = 7, 
+                       units = "cm", 
+                       res = 192,
+                       fps = 20,
+                       duration = 10,
+                       renderer = magick_renderer())
+```
+
+```{r}
+Animacion_p2
+```
+
+```{r}
+anim_save("Animacion2.gif", Animacion_p2)
+```
+
+
+## 4. Mapa leaflet { .tabset}
+### 4.1 Mapa estático
+```{r}
+library(leaflet)
+```
+
+```{r}
+Covid_ultima_fecha = Covid |>
+  filter(Fecha == max(Fecha)) |>
+  filter(Active > 0)
+
+leaflet::leaflet(Covid_ultima_fecha) |>
+  leaflet::addTiles() |>
+  leaflet::addCircleMarkers(
+    lng = ~Long, lat = ~Lat,
+    radius = ~sqrt(Active)/100,
+    color = "red", stroke = FALSE, fillOpacity = 0.5,
+    popup = ~paste(Country.Region, "<br>Activos:", Active)) |>
+  
+  leaflet::addLegend("bottomright", colors = "red", labels = "Casos activos", title = "COVID-19")
+```
+
+
+### 4.2 Mapa dinámico
+```{r}
+Covid_filtrado <- Covid %>%
+  filter(Active > 0)
+
+mundo <- map_data("world")
+
+p_mapa <- ggplot() +
+  geom_map(data = mundo, map = mundo,
+           aes(x = long, y = lat, map_id = region),
+           fill = "gray90", color = "white", size = 0.1) +
+  geom_point(data = Covid_filtrado,
+             aes(x = Long, y = Lat, size = Active, frame = Fecha),
+             color = "red", alpha = 0.5) +
+  scale_size_continuous(range = c(1, 8), name = "Casos activos") +
+  labs(title = "Casos Activos de COVID-19",
+       subtitle = "Fecha: {frame_time}",
+       x = "", y = "") +
+  theme_minimal() +
+  theme(legend.position = "bottom",
+        axis.text = element_blank(),
+        panel.grid = element_blank()) +
+  transition_time(Fecha) +
+  ease_aes('linear')
+
+anim_mapa <- animate(p_mapa,
+                     width = 10, 
+                     height = 7, 
+                     units = "cm", 
+                     res = 192, 
+                     fps = 15,
+                     duration = 10,
+                     renderer = gifski_renderer())
+```
+
+```{r}
+anim_mapa
+```
+
+```{r}
+anim_save("MapaAnimado.gif", anim_mapa)
+```
+
