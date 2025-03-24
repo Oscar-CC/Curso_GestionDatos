@@ -7,7 +7,6 @@ output: html_document
 
 
 
-
 ### **Índice de clases.**
 
 [Clase 1. Limpieza de datos](Clase1_LimpiezaDatos.html)
@@ -29,7 +28,6 @@ output: html_document
 [Clase 8. Visualización de Modelos Estadísticos](Clase8_VisualizacionModelosEstadisticos.html)
 
 [Clase 9. Gráficos dinámicos: gganimate](Clase9_GraficosDinamicos_gganimate.html)
-
 
 
 
